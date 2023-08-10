@@ -1,0 +1,646 @@
+capue in Capua					city name loc
+enas*' Ena (?)					city name (?) 1st gen
+! velcl Velca
+veld0i Velca 					city name 2nd gen
+	+ -0i in					post
+vips'l Vipsa					city name 2nd gen
+! kamarte Kamarta				city name loc
+! kamarte0i Kamarta				city name loc
+	+ -0i in					post
+pers'ie Pershia (Perusia)		city name loc
+tars'minas*s* Trasimene			place name 1st gen (?)
+! tarx*nal Tarkhna				city name 2nd gen
+tarx*nal0i Tarkhna				city name 2nd gen
+	+ -0i in 					post
+tlenax*eis*' Tlenakhe			place name (?) 1st abl
+x*is'ulics* Khishuli			place name (?) 1st abl 
+ai0as Aitha						theo 1st gen
+ax*rum Acheron					theo nom acc
+ax*uias* Akhuia					theo epithet 1st gen
+[cav]a0as Cavatha				theo 1st gen
+ca0as Catha						theo 1st gen
+canlas Cania					theo epithet 1st gen
+cels* Сеl 						theo 1st gen
+clz Сеl 						theo 1st gen
+espial Espi						theo 2nd gen
+hercle Hercle					theo nom acc
+hercles Hercle					theo 1st gen 
+hercle.s. Hercle				theo 1st gen 
+huin0naias ?					theo epithet 1st gen
+0ufl0as* Thufltha				theo 1st gen
+0ufl0as Thufltha				theo 1st gen
+0us*u0ur Thusu gods (?)			theo anim pl nom acc
+kav0as* Kautha					theo 1st gen
+le0a.m.su.l Lethams				theo 2nd gen
+! lurmi ?						nom acc
+lurmicla ? 						nom acc 
+	+ -da the					dem pro 2nd gen
+lus'as* Lusha					theo 1st gen 
+matrns*l Matrns 				theo 2nd gen
+men[er]avas Minerva				theo 1st gen
+menervas Menerva				theo 1st gen
+menrvas Minerva					theo 1st gen
+ne0uns*l Nethuns				theo 2nd gen
+ne0unsl Nethuns					theo 2nd gen
+s*'e0lans Shethlans				theo nom acc
+ra0s Rath						theo 1st gen
+! sanx*una of Sankhu			theo epithet nom acc
+sanx*uneta of Sankhu			theo epithet nom acc 
+	+ -ita the					dem pro nom acc
+selvans Selvans					theo nom acc
+selvansl Selvans				theo 2nd gen
+sil<v>anz Selvans				theo 2nd gen
+tece•s'ans*l Tece Shans			theo 2nd gen
+tetanus* Tetanu					theo epithet 1st gen
+ti[---] ?						theo (?)
+tinas Tinia						theo 1st gen
+tinia Tinia						theo nom acc
+tins* Tinia						theo 1st gen
+trepu Trepu						theo nom acc
+turmsal Turms					theo 2nd gen
+turns Turan						theo 1st gen
+uni Uni							theo nom acc
+unial Uni						theo 2nd gen
+fuflunusra of Fufluns			theo nom acc
+[----]s ?
+a Aule							masc prae nom acc
+	abbrev. of aule
+a Aule							masc prae 1st gen
+	abbrev. of aules*
+! acnatrual Acnatrui 			fem nomen 2nd gen
+acnatrualc Acnatrui 			fem nomen 2nd gen
+	+ -c and					enclitic conj
+ae Aule							masc prae nom acc
+	abbrev. of avle
+av Aule							masc prae nom acc 
+	abbrev. of avle
+av Aule							masc prae 1st gen 
+	abbrev. of avles
+aveles* Avile					masc prae 1st gen  
+aveles Avele					masc prae 1st gen
+! avenal Avenai 				fem nomen 2nd gen
+avenalc Avenai 					fem nomen 2nd gen 
+	+ -c and 					enclitic conj  
+aves* Aves 						masc nomen 1st gen
+[avi]le Avile 					masc prae nom acc  
+avil[es*] Avile 				masc prae 1st gen
+avil[e] Avile 					masc prae nom acc
+avle Aule 						masc prae nom acc
+a0 Arnth						masc prae nom acc
+	abbrev. of arn0
+a0 Arnth 						masc prae 2nd gen
+	abbrev. of arn0al
+ale0nas Alethnas 				masc nomen 1st gen
+.a.l.0.r.na.s. Althrnas 		masc nomen 1st gen 
+am[---] ? 
+anas*nies* Anasnie 				masc prae 1st gen
+[a]ncinie.s^x. Ancinies 		masc nomen 1st gen 
+ane Ane 						masc prae nom acc
+anes* Ane 						masc prae 1st gen
+anes Ane 						masc prae 1st gen
+anti{:}pater Antipater 			masc name nom acc 
+apatrual Apatrui 				fem nomen 2nd gen
+apenas Apenas 					masc nomen 1st gen
+apnal Apnei 					fem nomen 2nd gen
+! apr0n[al] Aprthnei			fem nomen 2nd gen
+apr0n[al]c Aprthnei				fem nomen 2nd gen
+	+ -c and 					enclitic conj
+apunas Apunas					masc nomen 1st gen
+apunaç Apunas 					masc nomen 1st gen
+araz Araz 						masc prae nom acc 
+ara0iale Ara(n)th 				masc prae 2nd pert
+aran0 Aranth 					masc prae nom acc
+aran0ia Aranth 					masc prae 2nd gen
+arianas* Ariana 				masc nomen 1st gen
+arnza Arnza 					masc prae nom acc
+arn0 Arnth 						masc prae nom acc  
+arn0al Arnth 					masc prae 2nd gen
+arn0ial Arnth					masc prae 2nd gen
+! arn0ial Arnth					masc prae 2nd gen
+arn0ialum Arnth 				masc prae 2nd gen 
+	+ -um and 					enclitic conj
+arnt Arnt 						masc prae nom acc  
+arntlei Arntlei 				fem nomen nom acc
+ateinei Ateinei 				fem nomen nom acc
+atelinas Atelina				masc nomen 1st gen
+.a.telina.s. Atelina 			masc nomen 1st gen
+aties Aties 					masc nomen 1st gen  
+au Aule 						masc prae nom acc
+	abbrev. of aule
+au Aule 						masc prae 1st gen 
+	abbrev. of aules*
+auvilesi Avile 					masc prae 1st pert
+aule Aule 						masc prae nom acc
+aules* Aule 					masc prae 1st gen  
+aules*i Aule 					masc prae 1st pert  
+aules Aule 						masc prae 1st gen  
+! aules* Aule 					masc prae 1st gen  
+aules'a Aule 					masc prae 1st gen
+	+ -sa the 					def art nom
+! aules* Aule 					masc prae nom acc
+aules'la Aule					masc prae nom acc 
+	+ -sla the 				dem pro 2nd gen
+! ax*ratinal Akhratinei			fem nomen 2nd gen
+ax*ratinalis'a Akhratinei 		fem nomen 2nd gen 
+	+ -isa the 				def art nom 
+afuna Afuna 					masc nomen nom acc
+bercomsna Percumsna 			masc nomen nom acc 
+cae Cae 						masc nomen nom acc
+caes* Cae 						masc nomen 1st gen
+cavi Cavi 						masc prae nom acc
+cavis Cavis 					masc nomen 1st gen 
+cai Cai 						masc nomen nom acc 
+cais* Cai						masc nomen 1st gen 
+! calisnial Calisni				fem nomen 2nd gen
+calisnia[l]c Calisni 			fem nomen 2nd gen 
+	+ -c and 					enclitic conj
+camnas Camnas 					masc nomen 1st gen
+canatnei Canatnei 				fem cogn nom acc
+[c]afates Cafates 				masc nomen 1st gen
+ceicnas Ceicnas 				masc nomen 1st gen
+ceisatrui Ceisatrui 			fem nomen nom acc 
+ceisina Ceisina 				masc nomen nom acc
+ceisu[i] Ceisui 				fem nomen nom acc
+ce'latina Celatina 				masc nomen nom acc
+ce'latinas* Celatina 			masc nomen 1st gen
+cemnil Cemni 					fem nomen 2nd gen
+ces'unia Ceshunia 				fem cogn nom acc
+ces*tnal Cestnei 				fem nomen 2nd gen
+cicus* Cicu 					masc cogn 1st gen 
+clavtie0urasi Claudii family 	anim pl 1st pert 
+cleusinas Cleusinas 			masc nomen 1st gen
+clues'te Clueshte 				masc nomen nom acc
+cracial Craci 					fem nomen 2nd gen 
+cr[ai]culi Craiculi 			masc nomen nom acc
+crepus Crepus 					masc nomen 1st gen
+crucrials Crucri 				fem nomen 2nd abl
+cuclnial Cuclni 				fem nomen 2nd gen
+cuclnies Cuclnies 				masc nomen 1st gen
+cucrina Cucrina 				masc nomen nom acc
+cultces Cultces 				masc cogn 1st gen
+cumerunia Cumerunia 			fem cogn nom acc 
+cupes Cupe 						masc prae 1st gen
+cupe.s. Cupe 					masc prae 1st gen 
+curunas Curunas 				masc nomen 1st gen
+cus'u Cushu 					masc nomen nom acc 
+cus'ual Cushui 					fem nomen 2nd gen
+cus'u0uras* Cushu family 		anim pl 1st gen
+cus'u0uroum Cushu family			anim pl 1st gen 
+	+ -um and 					enclitic conj
+cus'us* Cushu					masc nomen 1st gen
+ezpus Etspus 					masc nomen 1st gen  
+einanal Einanei					fem nomen 2nd gen
+eucle Eucle 					masc nomen nom acc 
+v Vel 							masc prae nom acc
+	abbrev. of vel
+v Vel 							masc prae 1st gen
+	abbrev. of velus
+ve Vel 							masc prae 1st gen
+	abbrev. of velus*
+vel Vel 						masc prae nom acc
+vêl Vêl 						masc prae nom acc
+vel Vel 						masc prae nom acc  
+vêlara Vêlara 					masc nomen nom acc
+vele0nalaç Velethnai 			fem nomen 2nd abl
+[veleli]as* Velelia 			fem prae 1st gen
+velelias Velelia 				fem prae 1st gen
+veleliiasi Veleliia 			fem prae 1st pert
+vel0ieç Velthies 				masc nomen 1st gen
+vêl0inal Vêlthinei 				fem nomen 2nd gen
+vel0ur Velthur 					masc prae nom acc
+vel0uria Velthuria 				fem nomen nom acc 
+vêl0urus* Velthur 				masc prae 1st gen
+! vel0urus Velthur 				masc prae 1st gen
+vel0urus*'a Velthur 			masc prae 1st gen
+	+ -s*'a the 				def art nom
+vel0urus Velthur 				masc prae 1st gen
+! vêl0urus* Velthur				masc prae 1st gen
+vêl0urus'la Velthur 			masc prae 1st gen 
+	+ s'la the 					def art 2nd gen
+velia Velia 					fem prae nom acc  
+veliak Velia 					fem prae nom acc 
+	+ -k and 					enclitic conj  
+velias* Velia 					fem prae 1st gen  
+ve.l.ka.s.na.s. Velkasnas 		masc nomen 1st gen
+! velos Vel 					masc prae 1st gen
+velosa Vel 						masc prae 1st gen
+	+ -sa the 					def art nom
+vels* Vel 						masc prae 1st gen 
+vels*u Velsu 					masc nomen nom acc
+vels*ui Velsui 					fem nomen nom acc
+veluis Vel 						masc prae 1st abl
+velus*'a Vel 					masc prae 1st gen
+	+ -s*'a the 				def art nom 
+velus Vel 						masc prae 1st gen  
+vel[u]s[i] Vel 					masc prae 1st pert 
+velusum Vel 					masc prae 1st gen
+	+ -um and 					enclitic conj
+velx*aesi Velkhae 				masc prae 1st pert
+velx*ai Velkhai 				fem nomen nom acc
+velx*ainasi Velkhainas 			masc nomen 1st pert
+ve.l.x*ana.ç. Velkhnas 			masc nomen 1st gen
+velx*as Velkhas 				masc nomen 1st gen
+vêlx*e Vêlkhe 					masc prae nom acc
+vêlx*es* Vêlkhe 				masc prae 1st gen
+velx*es* Velkhe 				masc nomen 1st gen
+venali.a. Venalia 				fem prae nom acc
+venatres Venatres 				masc nomen 1st gen
+venel Venel 					masc prae nom acc  
+vene.l Venel 					masc prae nom acc
+venelasi Venel 					masc prae 1st pert
+venelus Venel 					masc prae 1st gen  
+veneluç Venel 					masc prae 1st gen 
+venus Venu 						masc prae 1st gen 
+ves'ial of Veshi 				fem nomen 2nd gen 
+veçtiricinala Vestiricinai 		fem nomen 2nd pert
+vêtnal Vêtnei 					fem nomen 2nd gen
+vetus Vetu 						masc cogn 1st gen
+vheis*alna[ia] Feysalnai 		fem nomen 2nd gen
+vhlakunaie Flakunaie 			masc nomen nom acc 
+vhulve.s. Vhulve 				masc nomen 1st gen
+vhulx*enas Fulkhenas 			masc nomen 1st gen
+vinumaia Vinumai 				fem nomen 2nd gen 
+vipi Vipi 						masc nomen nom acc
+vipie Vipie 					masc nom nom acc  
+[vip]ina0ur Vipi family 		anim pl nom acc
+vipinal Vipinei 				fem nomen 2nd gen
+vipinaltra Vipinei 				fem nomen 2nd gen 
+	+ -tra in honor of 			post 
+vipinanas Vipinanas 			masc nomen 1st gen 
+vl Vel 							masc prae nom acc
+	abbrev. of vel
+vl Vel 							masc prae 1st gen
+	abbrev. of velus
+vl Vel 							masc prae 1st gen 
+	abbrev. of velus*
+vuvze Vuvze 					masc prae nom acc
+vx* Velkhe 						masc prae nom acc 
+	abbrev. of velx*e
+zuqu Zuqu 						masc nomen nom acc 
+havrnas Havrnas 				masc nomen 1st gen
+! hanipalus Hanipal				1st gen
+hanipaluscle Hanipal 			1st gen 
+	+ -cle the 					dem pro loc 
+hanunia Hanunia 				fem cogn nom acc
+hapis'nei Hapishnei 			fem nomen nom acc 
+haprni Haprni 					masc nomen nom acc
+has'muni Hashmuni 				masc nomen nom acc 
+hasti Hasti 					fem prae nom acc 
+hercnas Hercna 					masc nomen 1st gen
+herine Herine 					masc nomen nom acc
+hvlaveç Flave 					masc prae 1st gen 
+hvuluves^x Fuluves 				masc nomen 1st gen
+hirminaia Hirminai 				fem nomen 2nd gen
+hirsunaies^xi Hirsunaie 		masc nomen 1st pert
+hirumesi Hirume 				masc prae 1st pert
+hirumi[n]a Hirumina 			masc nomen nom acc 
+hulave Hulave					masc nomen nom acc
+hulx*enas Hulkhenas 			masc nomen 1st gen
+hulx*niesi Hulkhnies 			masc nomen 1st pert 
+0a Thana 						fem prae nom acc 
+	abbrev. of 0ana 
+0ana Thana 						fem prae nom acc 
+0ana.c.vilu.s. Thanacvil 		fem prae 1st gen
+0anakvilus^x Thanakvil 			fem prae 1st gen
+0anax*vil Thanakhvil 			fem prae nom acc
+0anax*vilus Thanakhvil 			fem prae 1st gen 
+0ancvil Thancvil 				fem prae nom acc
+0anirs^xiie Thanirsiie 			masc prae nom acc
+0annursiannas^x Thannursiannas 	masc nomen 1st gen
+0anx*vil Thankhvil 				fem prae nom acc
+0anx*viluisc Thankhvil 			fem prae 1st abl 
+	+ -c and					enclitic conj
+0anx*vilus[c] Thankhvil 		fem prae 1st gen 
+	+ -[c] and					enclitic conj
+0ares* Thare 					masc cogn 1st gen 
+0evru.c.l.na.s. Thevruclnas 	masc nomen 1st gen
+0efries Thefries 				masc nomen 1st gen
+[0]ucer Thucer 					masc prae nom 
+kaiseri0esi Kaiserithe 			masc prae 1st pert 
+kaisie Kaisie 					masc prae nom acc
+kanzina<ia> Kanzinai 			fem nomen 2nd gen
+karkanas Karkana 				masc prae 1st gen
+karkus Karku 					masc nomen 1st gen
+kartazie Kartazie 				masc nomen nom acc 
+katilas* Katila 				masc nomen 1st gen
+l Larth 						masc prae nom acc 
+	abbrev. of lar0
+la Larth 						masc prae nom acc 
+	abbrev. of lar0 
+la Larth 						masc prae 2nd gen 
+	abbrev. of lar0al
+la0erna Latherna 				masc nomen nom acc
+lapanas Lapanas 				masc nomen 1st gen
+larces Larce 					masc prae 1st gen  
+larecesi Larece 				masc prae 1st pert
+larza Larza 					masc prae nom acc
+lar0 Larth 						masc prae nom acc
+lar0aia Larthai 				fem prae 2nd gen  
+lar0al Larth 					masc prae 2nd gen 
+lar0alc Larth 					masc prae 2nd gen 
+	+ -c and 					enclitic conj
+lar0ale Larth 					masc prae 2nd pert
+[lar]0alis'a Larth 				masc prae 2nd gen 
+	+ -is'a the 				def art nom 
+lar0alis'a Larth 				masc prae 2nd gen 
+	+ -is'a the 				def art nom
+lar0i Larthi 					fem prae nom acc  
+lar0ia Larth					masc prae 2nd gen  
+lar0ia Larthia 					fem prae nom acc 
+lar0ial Larth 					masc prae 2nd gen  
+lar0ial Larthi 					fem prae 2nd gen
+lar0ialc Larthi 				fem nomen 2nd gen 
+	+ -c and 					enclitic conj 
+lar0ialis*'la Larth 			masc prae 2nd gen 
+	+ -is*'la the 				def art 2nd gen
+lar0ialis'vle Larth 			masc prae 2nd gen 
+	+ -is'vle the 				def art pl 2nd pert 
+lar0iia Larth 					masc nomen 2nd gen
+larices Larice 					masc prae 1st gen
+! lariza Lariza					masc prae nom acc
+larizac Lariza 					masc prae nom acc 
+	+ -c and 					enclitic conj
+laris Laris 					masc prae nom acc
+laris' Larish 					masc prae nom acc
+laris'a Larish 					masc prae 2nd gen  
+lariça Laris 					masc prae 1st gen  
+larisal Laris 					masc prae 2nd gen
+laris'al Larish 				masc prae 2nd gen
+laris'alc Laris 				masc prae 2nd gen 
+	+ -c and 					enclitic conj
+larisale Laris 					masc prae 2nd pert
+larisalis*'a Laris 				masc prae 2nd gen 
+	+ -is*'a the 				def art nom
+larisalis*'la Laris 			masc prae 2nd gen 
+	+ -is*'la the  				def art 2nd gen 
+laris'alis'a Larish 			masc prae 2nd gen 
+	+ -is'a the  				def art nom
+laris'alis'vla Larish 			masc prae 2nd gen 
+	+ -is'vla the 				def art 2nd gen
+laris'c Larish 					masc prae nom acc
+	+ -c and 					enclitic conj
+lar{n}0 Larth 					masc prae nom acc  
+lart Lart 						masc prae nom acc
+lartiu Lartiu 					masc prae nom acc  
+lartle Lartle 					masc nomen nom acc
+laru Laru 						masc prae nom acc
+larus* Laru 					masc prae 1st gen 
+latini Latini 					fem nomen nom acc  
+laucies Laucies 				masc nomen 1st gen
+laucies Laucies 				masc prae 1st gen
+laus'a Lausha 					masc cogn nom acc
+laus'is'a Laushisha 			masc cogn nom acc
+! laux*meos* Laukhume			masc prae 1st gen
+laux*umes'a Laukhume			masc prae 1st gen 
+	+ -s'a the 					def art nom 
+le0aie Lethaie 					masc prae nom acc
+le0es Lethe 					masc prae 1st gen  
+leinies Leinies 				masc nomen 1st gen
+! lemni Lemni					fem nomen 1st gen (?)
+lemnis*'a Lemni 				fem nomen 1st gen (?) 
+	+ -s*'a the 				def art nom 
+l0 Larth 						masc prae nom acc
+	abbrev. of lar0
+l0 Larth 						masc prae 2nd gen
+	abbrev. of lar0al
+li Laris 						masc prae nom acc 
+	abbrev. of laris
+licenes^xi Licene 				masc prae 1st pert
+limu.r.ce.s. Limurce 			masc prae 1st gen
+lr Laris 						masc prae nom acc 
+	abbrev. of laris
+lr Laris 						masc prae 2nd gen 
+	abbrev. of larisal 
+ls' Larish 						masc prae nom acc
+	abbrev. of laris'
+lucer Lucer 					masc prae nom acc
+luvx*msal Luvkhmes 				masc nomen 2nd gen 
+luis'na Luishna 				masc nomen nom acc
+lus'ce Lushce 					masc cogn nom acc
+lus'cni Luscni 					masc nomen nom acc
+maclae Maclae 					masc nomen nom acc
+mamarce Mamarce 				masc prae nom acc
+mama.r.ce Mamarce 				masc prae nom acc
+[ma]marces Mamarce 				masc prae 1st gen
+marce Marce 					masc prae nom acc  
+matunai Matunai 				fem nomen nom acc
+matunas Matunas 				masc nomen 1st gen
+mezenties Mezenties 			masc nomen 1st gen 
+meinei Meinei 					fem nomen nom acc
+melacinasi Melacinas 			masc nomen 1st pert
+! melutas* Meluta				masc nomen 1st gen
+melutas'a Meluta 				masc nomen 1st gen 
+	+ -s'a the 					def art nom 
+metelis* Meteli 				masc nomen 1st gen
+metienas Metienas 				masc nomen 1st gen 
+mefanates* Mefanate 			masc nomen 1st gen 
+mu0ikus* Muthiku 				masc nomen 2nd gen 
+murila Murila 					name nom acc 
+<n>uzinaie Nuzinaie 			masc nomen 1st gen
+nula0es  Nulathe  				masc nomen 1st gen
+numnas* Numna 					masc nomen 1st gen
+nufres'a Nufresha 				masc cogn nom acc
+s*' Shethra 					fem prae 1st gen
+	abbrev. of s*'e0ras
+! s*'atlnal Shatlnei			fem nomen 2nd gen
+! s*'atinalc Shatlnei 			fem nomen 2nd gen 
+	+ -c and 					enclitic conj 
+s*'e0ra Shethra 				fem prae nom acc
+s*'e0re Shethre 				prae nom acc  
+s*'e0res Shethre 				masc prae 1st gen
+s*'i0urnaç Shithurnas 			masc nomen nom acc 
+s*inu Sinu 						masc cogn nom acc
+-s*'la the						def art 2nd gen
+s*purie Spurie 					masc prae nom acc  
+s*uplu Suplo 					masc nomen nom acc
+pai0inaie[(s)] Paithinaie(s) 	masc nomen nom acc 
+pai0inaie[(s)] Paithinaie(s) 	masc nomen 1st gen  
+pai0ina[s] Paithinaie(s) 		masc nomen nom acc 
+pai0ina[s] Paithinaie(s) 		masc nomen 1st gen  
+palazui Palazui 				fem nomen nom acc
+palpe Palpe						masc cogn nom acc  
+[pa]panalas* Papanai 			fem nomen 2nd abl 
+papaslis'a Papaslisha 			fem cogn nom acc 
+papr Paprsina 					masc nomen nom acc  
+	abbrev. of paprs*ina 
+parfilunia Parfilunia 			fem cogn nom acc 
+partunus Partunus 				masc nomen 1st gen
+patrus Patrus 					masc nomen nom acc
+pe0na Pethna 					masc nomen nom acc
+pe0unus Pethunus 				masc nomen 1st gen 
+perkena Perkena 				masc nomen nom acc 
+! pes'nal Peshnei				fem nomen 2nd gen
+pes'nalis'a Peshnei 			fem nomen 2nd gen
+	+ -is'a the 				def art nom
+pesn<a> Pesna 					masc prae nom acc
+pétce Pétce 					masc nomen nom acc
+pétru Pétru 					masc nomen nom acc
+pétruis* Pétru 					masc nomen 1st abl
+pétruni Pétruni 				masc nomen nom acc
+petrus* Petru 					masc nomen 1st gen 
+pétrus* Pétru 					masc nomen 1st gen
+pétrus*c Pétru 					masc nomen 1st gen 
+	+ -c and 					enclitic conj 
+pétrus*ta Pétru 				masc nomen 1st gen 
+	+ - ta the 					dem pro nom
+pivi Pivi 						masc prae nom acc  
+pini Pini 						masc nomen nom acc
+pisna Pisna 					masc prae nom acc  
+platunalus Platunalu 			masc nomen 1st gen 
+plecus Plecus 					masc nomen 1st gen
+pluns* Pluns					masc nomen nom acc  
+prasanaia Prasanai 				fem nomen 2nd gen
+precu0uras*i the Precu family 	anim pl 1st pert 
+precus* Precu 					masc nomen 1st gen
+pruciu Pruciu 					masc cogn nom acc
+p[ru]s*'lnas Prushlnas 			masc nomen 1st gen
+puinel Poenel 					masc prae nom acc
+pulenas Pulenas 				masc nomen 1st gen
+! pulia Pulia					fem nomen nom acc
+puliac Pulia 					fem nomen nom acc
+	+ -c and 					enclitic conj
+pulias Pulia 					fem nomen 1st gen
+pultuces*i Pultuce 				masc name 1st pert
+pumpu Pumpu 					masc nomen nom acc
+pumpual Pumpui 					fem nomen 2nd gen
+pumpun Pumpuna 					masc nomen nom acc
+	abbrev. of pumpuna
+pumpuna Pumpuna					masc nomen nom acc
+punpnas* Punpna 				masc nomen 1st gen
+qupe.s. Qupe					masc prae 1st gen
+qutus Qutus						masc cogn 1st gen
+r Ramtha 						fem prae nom acc
+	abbrev. of ram0a
+ravn0u Ravnthu 					fem prae nom acc
+! ra0umnas* Rathumna			masc nomen 1st gen
+ra0umnas'a Rathumna 			masc nomen 1st gen 
+	+ -s'a the 					def art nom
+rakalus* Rakalu 				masc nomen 1st gen
+ra[m] Ramtha 					fem prae nom acc
+	abbrev. of ram0a 
+rama0as Ramtha 					fem prae 1st gen
+ram0a Ramtha 					fem prae nom acc  
+ram0as Ramtha 					fem prae 1st gen
+ram0asc Ramtha 					fem prae 1st gen 
+	+ -c and					enclitic conj
+ramu0açi Ramutha				fem prae 1st pert
+raq[u]n0ia Raqunthi 			fem prae 2nd gen
+rasuniesi Rasunies 				masc nomen 1st pert
+raufe Raufe 					masc cogn nom acc
+ruvfi Ruvfi 					fem nomen nom acc
+ruvfies Ruvfie 					masc nomen 1st gen
+rutelna Rutelnai 				fem nomen 2nd gen
+savpunias Saupunias 			masc nomen nom acc
+s'alina[l] Shalinei 			fem nomen 2nd gen
+s'alini Shalini 				masc nomen nom acc
+s'alinis* Shalini 				masc nomen 1st gen
+satnal Satnei 					fem nomen 2nd gen 
+saturnies Saturnies 			masc nomen 1st gen 
+s'carpe Shcarpe 				masc nomen nom acc
+s'ceva[s*] Shcêvas 				masc cogn 1st gen
+s'cêvas* Shcêvas 				masc cogn 1st gen
+s'ce've's* Shcevas 				masc cogn 1st abl
+s'cire Shcire 					masc cogn nom acc
+s'e0rnal Shetrnei 				fem nomen 2nd gen
+s'eianti Sheianti 				fem nomen nom acc
+s'eiante Sheiante 				masc nomen nom acc
+! seiti0ial Seitithi			fem nomen 2nd gen
+seiti0ialis*'a Seitithi 		fem nomen 2nd gen 
+	+ -is*'a the 				def art nom
+semni Semni 					fem nomen nom acc
+.s.etiu Setiu 					masc nomen nom acc
+s'e'tmnal Shetmnei 				fem nomen 2nd gen
+s'etria Shetria 				fem prae nom acc
+s'0								masc prae nom acc
+	abrrev. of s'e0re
+silqetenas Silqetenas 			masc nomen 1st gen
+siprisnies Siprisnies 			masc nomen 1st gen
+s'lanzu Shlanzu 				masc nomen nom acc
+.s^x.lapina.s^x. Slapinas		masc nomen 1st gen
+spantui Spantui 				fem nomen nom acc
+spantus Spantus 				masc nomen 1st gen
+spitus Spitus 					masc nomen 1st gen
+spurianas Spurianas 			masc nomen 1st gen
+çpuriaç Spuria 					fem prae 1st gen
+spurieisi Spurie 				masc prae 1st pert
+spuriies Spuries 				masc nomen 1st gen
+squlias Squlia 					fem prae 1st gen
+sta<t>lanes Statlane 			masc nomen 1st gen
+sucisnaia Sucisnai 				fem nomen 2nd gen
+s'upri Shupri 					fem nomen nom acc
+tarx*nas Tarkhnas 				masc nomen 1st gen
+tatas* Tata 					masc prae 1st gen
+tati Tati 						nomen nom acc
+te'cs'inal Te'cshinei 			fem nomen 2nd gen
+tei0urnasi Teithurnas 			masc nomen 1st pert
+tela0uras Telathuras 			masc nomen 1st gen
+telicles Telicles 				masc nomen 1st gen
+tetana Tetana 					masc prae nom acc
+tetnies Tetnies 				masc nomen 1st gen
+tipeia Tipei 					fem nomen 2nd gen  
+tis'cus'nal Tishcushnei 		fem nomen 2nd gen
+titasi Tita 					fem prae 1st pert
+tite Tite 						masc prae nom acc 
+tite Tite 						masc nomen nom acc  
+titelaç Titela 					fem prae 1st gen  
+titenas Titenas 				masc nomen 1st gen
+titi Titi 						fem nomen nom acc
+titial Titi 					fem nomen 2nd gen  
+titialc Titi 					fem nomen 2nd gen 
+	+ -c the 					enclitic conj
+titlnal Titlnei 				fem nomen 2nd gen
+titlnis* Titlni 				masc nomen 1st gen
+tif*ile Tiphile 				masc name nom acc  
+tif*ile Tiphile 				masc nomen nom acc
+! tles*nas* Tlesna				masc nomen 1st gen
+tles*nas'a Tlesna 				masc nomen 1st gen 
+	+ -s'a the					def art nom
+treseles Treseles 				masc nomen 1st gen
+truf*un Truphun 				masc name nom acc 
+tulalus* Tulalu 				masc nomen 1st gen
+tulumnes^x Tulumnes 			masc nomen 1st gen
+turials{c} Turi 				fem nomen 1st abl
+turis Turis 					nom acc  
+turmna Turmna 					masc nomen nom acc
+tutes Tutes 					masc nomen 1st gen
+tuteis Tutes 					masc nomen 1st abl
+! tutnas* Tutna					masc nomen 1st gen
+tutnas'a Tutna 					masc nomen 1st gen 
+	+ -s'a the					def art nom
+u0ras* Uthra 					masc nomen 1st gen
+u0uzte0s of Odysseus 			nom acc
+ultimnial Ultimni 				fem nomen 2nd gen
+! ulx*nis*- Ulkhni				masc nomen 1st gen
+ulx*nis'la Ulkhni				masc nomen 1st gen 
+	+ -s'la the					def art 2nd gen
+unatn Unatnei 					fem nomen 2nd gen
+	abbrev. of unatnal
+us'lna Ushlna 					masc nomen nom acc
+us'lnal Ushlnei 				fem nomen 2nd gen
+utaves Utave 					masc nomen 1st gen
+utas^x Utas 					masc nomen 1st gen
+.s^+.lapina.s^+. Slapinas 		masc nomen 1st gen
+f*isis Phisi 					masc nomen 1st gen
+x*urcles Khurcles 				masc nomen 1st gen
+x*urx*les Khurkhles 			masc nomen 1st gen
+fanacnal Fanacnei 				fem nomen 2nd gen
+fastntru Fastntru 				masc cogn nom acc
+feles'kenas* Feleshkena 		masc nomen 1st gen 
+fe'ls*ni Felsni 				masc nomen nom acc
+felsnas Felsnas 				masc nomen 1st gen
+felus'kes* Felushke 			masc nomen 1st gen
+fl Flavia 						fem prae nom acc 
+	abbrev. of flavia
+! flavia						fem prae nom acc 
+flavienas Flavienas				masc nomen 1st
+fuln[---] Fuln[---]				masc nomen nom acc
+fulnial Fulni					fem nomen 2nd gen
+! fulus Fulu					masc prae 1st gen
+fulu.s*.la Fulu 				masc prae 1st gen 
+	+ -.s*'.la the 				def art 2nd gen
+fufle Fufle 					masc cogn nom acc
+! [---]aninal ?					fem nomen 2nd gen
+[----]aninalc ?					fem nomen 2nd gen 
+	+ -c and					enclitic conj
+[---]pnal ? 					fem nomen 2nd gen
+[---]us* ?						1st gen

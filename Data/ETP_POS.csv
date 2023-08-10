@@ -1,0 +1,1123 @@
+,Etruscan,Translations,POS,Is inferred,Is suffix,Abbreviation of,Suffix indexes,city name,place name,name,epithet,theo,cogn,prae,nomen,nom,acc,masc,fem,nas-part,nasa-part,u-part,θ-impv,θ-part,θas-part,as-part,act,pass,non-past,past,impv,jussive,necess,inanim,anim,indef,def,deictic particle,enclitic particle,enclitic conj,dem,adv,art,conj,post,pro,rel,subord,neg,num,1st gen,2nd gen,1st abl,2nd abl,loc,1st pert,2nd pert,1st pers,2nd pers,3rd pers,pl,gen,abl,pert,TAG
+0,isa,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADP
+1,iσ'a,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+2,x,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+3,iσ'la,"((True, 'the'),)",def art 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,DET
+4,cle,"((True, 'the'),)",dem pro loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,ADP
+5,.σ'.la,"((True, 'the'),)",def art 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,PRON
+6,śva,"((True, 'the'),)",def art nom pl,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,ADP
+7,sla,"((True, 'the'),)",dem pro 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,1,0,0,0,0,0,,,,,True,False,False,CONJ
+8,σ'la,"((True, 'the'),)",def art 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,PRON
+9,pi,(),enclitic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,DET
+10,um,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+11,iśa,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+12,ca,"((True, 'this'),)",dem pro nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRT
+13,ta,"((True, 'this'),)",dem pro nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,CONJ
+14,ta,"((True, 'the'),)",dem pro nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADP
+15,t,"((True, 'in'), (True, 'on'))",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+16,iśvla,"((True, 'the'),)",def art pl 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,1,True,False,False,CONJ
+17,ita,"((True, 'the'),)",dem pro nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,CONJ
+18,θ,"((True, 'in'), (True, 'on'))",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,PRON
+19,t,"((True, 'in'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,PRT
+20,ti,"((True, 'in'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,PRON
+21,śvê,"((True, 'the'),)",def art pl loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,1,0,0,,,,1,False,False,False,DET
+22,te,"((True, 'on'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,PRON
+23,θ,"((True, 'in'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+24,ti,"((True, 'in'), (True, 'on'))",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+25,θ,(),enclitic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+26,θi,"((True, 'in'), (True, 'on'))",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+27,θi,"((True, 'on'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+28,m,"((True, 'but'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,ADP
+29,c,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRON
+30,m,"((True, 'and'), (True, 'but'))",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,ADP
+31,.i.tule,"((True, 'the'),)",dem pro loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,DET
+32,iśvla,"((True, 'the'),)",def art 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,CONJ
+33,ca,"((True, 'the'),)",dem pro nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+34,tiσ,"((True, 'this'),)",dem pro 1st abl,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,1,0,0,0,0,,,,,False,True,False,ADP
+35,em,"((True, 'from'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+36,ς'va,"((True, 'the'),)",def art pl nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,DET
+37,ri,"((True, 'on behalf of'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+38,k,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRON
+39,sa,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADP
+40,c,(),enclitic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,DET
+41,σ'a,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,CONJ
+42,śla,"((True, 'the'),)",def art 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,PRON
+43,m,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+44,[p]e,(),enclitic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,ADP
+45,pe,(),enclitic particle (?),False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+46,iśvle,"((True, 'the'),)",def art pl 2nd pert,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,1,,,,1,False,False,True,CONJ
+47,oi,"((True, 'on'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+48,śa,"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+49,ri,"((True, 'on behalf of'), (True, 'for'))",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+50,χ,"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+51,da,"((True, 'the'),)",dem pro 2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,1,0,0,0,0,0,,,,,True,False,False,ADP
+52,l,(),enclitic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,ADP
+53,θi,"((True, 'in'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,DET
+54,l,(),deictic particle,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,DET
+55,c,"((True, 'the'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+56,tra,"((True, 'in honor of'),)",post,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,CONJ
+57,pi,(),enclitic particle (?),False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,False,False,False,DET
+58,c,(),enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+59,iσ',"((True, 'the'),)",def art nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+60,[c],"((True, 'and'),)",enclitic conj,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+61,capue,"((True, 'in capua'),)",city name loc,False,False,,,1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+62,enaσ',"((False, 'ena'),)",city name (?) 1st gen,False,False,,,0.5,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+63,velcl,"((True, 'velca'),)",,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+64,veldθi,"((True, 'velca'),)",city name 2nd gen,False,False,,"(53,)",1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+65,vipśl,"((True, 'vipsa'),)",city name 2nd gen,False,False,,,1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+66,kamarte,"((True, 'kamarta'),)",city name loc,False,True,,,1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+67,kamarteθi,"((True, 'kamarta'),)",city name loc,False,True,,"(53,)",1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+68,perśie,"((True, ''), (True, 'pershia perusia'))",city name loc,False,False,,,1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+69,tarśminaσσ,"((True, 'trasimene'),)",place name 1st gen (?),False,False,,,0,1,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,0,0,0,0,0,0,,,,,True,False,False,NOUN
+70,tarχnal,"((True, 'tarkhna'),)",city name 2nd gen,False,True,,,1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+71,tarχnalθi,"((True, 'tarkhna'),)",city name 2nd gen,False,False,,"(53,)",1,0,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+72,tlenaχeiσ',"((True, 'tlenakhe'),)",place name (?) 1st abl,False,False,,,0,0.5,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+73,χiśulicσ,"((True, 'khishuli'),)",place name (?) 1st abl,False,False,,,0,0.5,0,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+74,aiθas,"((True, 'aitha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+75,aχrum,"((True, 'acheron'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+76,aχuiaσ,"((True, 'akhuia'),)",theo epithet 1st gen,False,False,,,,,,1,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+77,[cav]aθas,"((True, 'cavatha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+78,caθas,"((True, 'catha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+79,canlas,"((True, 'cania'),)",theo epithet 1st gen,False,False,,,,,,1,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+80,celσ,"((True, 'сеl'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+81,clz,"((True, 'сеl'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+82,espial,"((True, 'espi'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+83,hercle,"((True, 'hercle'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+84,hercles,"((True, 'hercle'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+85,hercle.s.,"((True, 'hercle'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+86,huinθnaias,(),theo epithet 1st gen,False,False,,,,,,1,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+87,θuflθaσ,"((True, 'thufltha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+88,θuflθas,"((True, 'thufltha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+89,θuσuθur,"((False, 'thusu gods'),)",theo anim pl nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+90,kavθaσ,"((True, 'kautha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+91,leθa.m.su.l,"((True, 'lethams'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+92,lurmi,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+93,lurmicla,(),nom acc,False,False,,"(51,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+94,luśaσ,"((True, 'lusha'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+95,matrnσl,"((True, 'matrns'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+96,men[er]avas,"((True, 'minerva'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+97,menervas,"((True, 'menerva'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+98,menrvas,"((True, 'minerva'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+99,neθunσl,"((True, 'nethuns'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+100,neθunsl,"((True, 'nethuns'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+101,σ'eθlans,"((True, 'shethlans'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+102,raθs,"((True, 'rath'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+103,sanχuna,"((True, 'of sankhu'),)",theo epithet nom acc,False,True,,,,,,1,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+104,sanχuneta,"((True, 'of sankhu'),)",theo epithet nom acc,False,False,,"(17,)",,,,1,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+105,selvans,"((True, 'selvans'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+106,selvansl,"((True, 'selvans'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+107,sil<v>anz,"((True, 'selvans'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+108,tece•śanσl,"((True, 'tece shans'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+109,tetanuσ,"((True, 'tetanu'),)",theo epithet 1st gen,False,False,,,,,,1,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+110,ti[---],(),theo (?),False,False,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,NOUN
+111,tinas,"((True, 'tinia'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+112,tinia,"((True, 'tinia'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+113,tinσ,"((True, 'tinia'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+114,trepu,"((True, 'trepu'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+115,turmsal,"((True, 'turms'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+116,turns,"((True, 'turan'),)",theo 1st gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+117,uni,"((True, 'uni'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+118,unial,"((True, 'uni'),)",theo 2nd gen,False,False,,,,,,,1,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+119,fuflunusra,"((True, 'of fufluns'),)",theo nom acc,False,False,,,,,,,1,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+120,[----]s,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+121,a,"((True, 'aule'),)",masc prae nom acc,False,False,aule,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+122,aule,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+123,a,"((True, 'aule'),)",masc prae 1st gen,False,False,auleσ,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+124,auleσ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+125,acnatrual,"((True, 'acnatrui'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+126,acnatrualc,"((True, 'acnatrui'),)",fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+127,ae,"((True, 'aule'),)",masc prae nom acc,False,False,avle,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+128,avle,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+129,av,"((True, 'aule'),)",masc prae nom acc,False,False,avle,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+130,av,"((True, 'aule'),)",masc prae 1st gen,False,False,avles,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+131,avles,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+132,aveleσ,"((True, 'avile'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+133,aveles,"((True, 'avele'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+134,avenal,"((True, 'avenai'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+135,avenalc,"((True, 'avenai'),)",fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+136,aveσ,"((True, 'aves'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+137,[avi]le,"((True, 'avile'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+138,avil[eσ],"((True, 'avile'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+139,avil[e],"((True, 'avile'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+140,avle,"((True, 'aule'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+141,aθ,"((True, 'arnth'),)",masc prae nom acc,False,False,arnθ,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+142,arnθ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+143,aθ,"((True, 'arnth'),)",masc prae 2nd gen,False,False,arnθal,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+144,arnθal,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+145,aleθnas,"((True, 'alethnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+146,.a.l.θ.r.na.s.,"((True, 'althrnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+147,am[---],(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+148,anaσnieσ,"((True, 'anasnie'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+149,[a]ncinie.š.,"((True, 'ancinies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+150,ane,"((True, 'ane'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+151,aneσ,"((True, 'ane'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+152,anes,"((True, 'ane'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+153,anti{:}pater,"((True, 'antipater'),)",masc name nom acc,False,False,,,0,0,1,,,,,,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+154,apatrual,"((True, 'apatrui'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+155,apenas,"((True, 'apenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+156,apnal,"((True, 'apnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+157,aprθn[al],"((True, 'aprthnei'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+158,aprθn[al]c,"((True, 'aprthnei'),)",fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+159,apunas,"((True, 'apunas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+160,apunaς,"((True, 'apunas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+161,araz,"((True, 'araz'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+162,araθiale,"((True, ''), (True, 'aranth'))",masc prae 2nd pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,False,False,True,NOUN
+163,aranθ,"((True, 'aranth'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+164,aranθia,"((True, 'aranth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+165,arianaσ,"((True, 'ariana'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+166,arnza,"((True, 'arnza'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+167,arnθ,"((True, 'arnth'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+168,arnθal,"((True, 'arnth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+169,arnθial,"((True, 'arnth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+170,arnθial,"((True, 'arnth'),)",masc prae 2nd gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+171,arnθialum,"((True, 'arnth'),)",masc prae 2nd gen,False,False,,"(10,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+172,arnt,"((True, 'arnt'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+173,arntlei,"((True, 'arntlei'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+174,ateinei,"((True, 'ateinei'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+175,atelinas,"((True, 'atelina'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+176,.a.telina.s.,"((True, 'atelina'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+177,aties,"((True, 'aties'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+178,au,"((True, 'aule'),)",masc prae nom acc,False,False,aule,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+179,au,"((True, 'aule'),)",masc prae 1st gen,False,False,auleσ,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+180,auvilesi,"((True, 'avile'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+181,aule,"((True, 'aule'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+182,auleσ,"((True, 'aule'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+183,auleσi,"((True, 'aule'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+184,aules,"((True, 'aule'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+185,auleσ,"((True, 'aule'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+186,auleśa,"((True, 'aule'),)",masc prae 1st gen,False,False,,"(39,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+187,auleσ,"((True, 'aule'),)",masc prae nom acc,False,True,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+188,auleśla,"((True, 'aule'),)",masc prae nom acc,False,False,,"(7,)",,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+189,aχratinal,"((True, 'akhratinei'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+190,aχratinaliśa,"((True, 'akhratinei'),)",fem nomen 2nd gen,False,False,,"(0,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+191,afuna,"((True, 'afuna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+192,bercomsna,"((True, 'percumsna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+193,cae,"((True, 'cae'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+194,caeσ,"((True, 'cae'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+195,cavi,"((True, 'cavi'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+196,cavis,"((True, 'cavis'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+197,cai,"((True, 'cai'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+198,caiσ,"((True, 'cai'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+199,calisnial,"((True, 'calisni'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+200,calisnia[l]c,"((True, 'calisni'),)",fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+201,camnas,"((True, 'camnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+202,canatnei,"((True, 'canatnei'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+203,[c]afates,"((True, 'cafates'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+204,ceicnas,"((True, 'ceicnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+205,ceisatrui,"((True, 'ceisatrui'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+206,ceisina,"((True, 'ceisina'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+207,ceisu[i],"((True, 'ceisui'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+208,cêlatina,"((True, 'celatina'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+209,cêlatinaσ,"((True, 'celatina'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+210,cemnil,"((True, 'cemni'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+211,ceśunia,"((True, 'ceshunia'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+212,ceσtnal,"((True, 'cestnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+213,cicuσ,"((True, 'cicu'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+214,clavtieθurasi,"((True, 'claudii family'),)",anim pl 1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,1,False,False,True,NOUN
+215,cleusinas,"((True, 'cleusinas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+216,clueśte,"((True, 'clueshte'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+217,cracial,"((True, 'craci'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+218,cr[ai]culi,"((True, 'craiculi'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+219,crepus,"((True, 'crepus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+220,crucrials,"((True, 'crucri'),)",fem nomen 2nd abl,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,,,,,False,True,False,NOUN
+221,cuclnial,"((True, 'cuclni'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+222,cuclnies,"((True, 'cuclnies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+223,cucrina,"((True, 'cucrina'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+224,cultces,"((True, 'cultces'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+225,cumerunia,"((True, 'cumerunia'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+226,cupes,"((True, 'cupe'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+227,cupe.s.,"((True, 'cupe'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+228,curunas,"((True, 'curunas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+229,cuśu,"((True, 'cushu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+230,cuśual,"((True, 'cushui'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+231,cuśuθuraσ,"((True, 'cushu family'),)",anim pl 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,1,True,False,False,NOUN
+232,cuśuθuroum,"((True, 'cushu family'),)",anim pl 1st gen,False,False,,"(10,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,1,True,False,False,NOUN
+233,cuśuσ,"((True, 'cushu'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+234,ezpus,"((True, 'etspus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+235,einanal,"((True, 'einanei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+236,eucle,"((True, 'eucle'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+237,v,"((True, 'vel'),)",masc prae nom acc,False,False,vel,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+238,vel,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+239,v,"((True, 'vel'),)",masc prae 1st gen,False,False,velus,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+240,velus,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+241,ve,"((True, 'vel'),)",masc prae 1st gen,False,False,veluσ,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+242,veluσ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+243,vel,"((True, 'vel'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+244,vêl,"((True, 'vêl'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+245,vêlara,"((True, 'vêlara'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+246,veleθnalaς,"((True, 'velethnai'),)",fem nomen 2nd abl,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,,,,,False,True,False,NOUN
+247,[veleli]aσ,"((True, 'velelia'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+248,velelias,"((True, 'velelia'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+249,veleliiasi,"((True, 'veleliia'),)",fem prae 1st pert,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+250,velθieς,"((True, 'velthies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+251,vêlθinal,"((True, 'vêlthinei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+252,velθur,"((True, 'velthur'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+253,velθuria,"((True, 'velthuria'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+254,vêlθuruσ,"((True, 'velthur'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+255,velθurus,"((True, 'velthur'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+256,velθuruσ'a,"((True, 'velthur'),)",masc prae 1st gen,False,False,,"(41,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+257,velθurus,"((True, 'velthur'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+258,vêlθuruσ,"((True, 'velthur'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+259,vêlθuruśla,"((True, 'velthur'),)",masc prae 1st gen,False,False,,"(42,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+260,velia,"((True, 'velia'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+261,veliak,"((True, 'velia'),)",fem prae nom acc,False,False,,"(38,)",,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+262,veliaσ,"((True, 'velia'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+263,ve.l.ka.s.na.s.,"((True, 'velkasnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+264,velos,"((True, 'vel'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+265,velosa,"((True, 'vel'),)",masc prae 1st gen,False,False,,"(39,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+266,velσ,"((True, 'vel'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+267,velσu,"((True, 'velsu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+268,velσui,"((True, 'velsui'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+269,veluis,"((True, 'vel'),)",masc prae 1st abl,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+270,veluσ'a,"((True, 'vel'),)",masc prae 1st gen,False,False,,"(41,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+271,velus,"((True, 'vel'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+272,vel[u]s[i],"((True, 'vel'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+273,velusum,"((True, 'vel'),)",masc prae 1st gen,False,False,,"(10,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+274,velχaesi,"((True, 'velkhae'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+275,velχai,"((True, 'velkhai'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+276,velχainasi,"((True, 'velkhainas'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+277,ve.l.χana.ς.,"((True, 'velkhnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+278,velχas,"((True, 'velkhas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+279,vêlχe,"((True, 'vêlkhe'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+280,vêlχeσ,"((True, 'vêlkhe'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+281,velχeσ,"((True, 'velkhe'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+282,venali.a.,"((True, 'venalia'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+283,venatres,"((True, 'venatres'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+284,venel,"((True, 'venel'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+285,vene.l,"((True, 'venel'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+286,venelasi,"((True, 'venel'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+287,venelus,"((True, 'venel'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+288,veneluς,"((True, 'venel'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+289,venus,"((True, 'venu'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+290,veśial,"((True, 'of veshi'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+291,veςtiricinala,"((True, 'vestiricinai'),)",fem nomen 2nd pert,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,False,False,True,NOUN
+292,vêtnal,"((True, 'vêtnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+293,vetus,"((True, 'vetu'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+294,vheiσalna[ia],"((True, 'feysalnai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+295,vhlakunaie,"((True, 'flakunaie'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+296,vhulve.s.,"((True, 'vhulve'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+297,vhulχenas,"((True, 'fulkhenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+298,vinumaia,"((True, 'vinumai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+299,vipi,"((True, 'vipi'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+300,vipie,"((True, 'vipie'),)",masc nom nom acc,False,False,,,,,,,,,,,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+301,[vip]inaθur,"((True, 'vipi family'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+302,vipinal,"((True, 'vipinei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+303,vipinaltra,"((True, 'vipinei'),)",fem nomen 2nd gen,False,False,,"(56,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+304,vipinanas,"((True, 'vipinanas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+305,vl,"((True, 'vel'),)",masc prae nom acc,False,False,vel,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+306,vl,"((True, 'vel'),)",masc prae 1st gen,False,False,velus,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+307,vl,"((True, 'vel'),)",masc prae 1st gen,False,False,veluσ,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+308,vuvze,"((True, 'vuvze'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+309,vχ,"((True, 'velkhe'),)",masc prae nom acc,False,False,velχe,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+310,velχe,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+311,zuqu,"((True, 'zuqu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+312,havrnas,"((True, 'havrnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+313,hanipalus,"((True, 'hanipal'),)",1st gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+314,hanipaluscle,"((True, 'hanipal'),)",1st gen,False,False,,"(4,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+315,hanunia,"((True, 'hanunia'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+316,hapiśnei,"((True, 'hapishnei'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+317,haprni,"((True, 'haprni'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+318,haśmuni,"((True, 'hashmuni'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+319,hasti,"((True, 'hasti'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+320,hercnas,"((True, 'hercna'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+321,herine,"((True, 'herine'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+322,hvlaveς,"((True, 'flave'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+323,hvuluveš,"((True, 'fuluves'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+324,hirminaia,"((True, 'hirminai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+325,hirsunaieši,"((True, 'hirsunaie'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+326,hirumesi,"((True, 'hirume'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+327,hirumi[n]a,"((True, 'hirumina'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+328,hulave,"((True, 'hulave'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+329,hulχenas,"((True, 'hulkhenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+330,hulχniesi,"((True, 'hulkhnies'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+331,θa,"((True, 'thana'),)",fem prae nom acc,False,False,θana,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+332,θana,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+333,θana,"((True, 'thana'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+334,θana.c.vilu.s.,"((True, 'thanacvil'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+335,θanakviluš,"((True, 'thanakvil'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+336,θanaχvil,"((True, 'thanakhvil'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+337,θanaχvilus,"((True, 'thanakhvil'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+338,θancvil,"((True, 'thancvil'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+339,θaniršiie,"((True, 'thanirsiie'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+340,θannursiannaš,"((True, 'thannursiannas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+341,θanχvil,"((True, 'thankhvil'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+342,θanχviluisc,"((True, 'thankhvil'),)",fem prae 1st abl,False,False,,"(29,)",,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+343,θanχvilus[c],"((True, 'thankhvil'),)",fem prae 1st gen,False,False,,"(60,)",,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+344,θareσ,"((True, 'thare'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+345,θevru.c.l.na.s.,"((True, 'thevruclnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+346,θefries,"((True, 'thefries'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+347,[θ]ucer,"((True, 'thucer'),)",masc prae nom,False,False,,,,,,,,0,1,0,1,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+348,kaiseriθesi,"((True, 'kaiserithe'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+349,kaisie,"((True, 'kaisie'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+350,kanzina<ia>,"((True, 'kanzinai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+351,karkanas,"((True, 'karkana'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+352,karkus,"((True, 'karku'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+353,kartazie,"((True, 'kartazie'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+354,katilaσ,"((True, 'katila'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+355,l,"((True, 'larth'),)",masc prae nom acc,False,False,larθ,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+356,larθ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+357,la,"((True, 'larth'),)",masc prae nom acc,False,False,larθ,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+358,la,"((True, 'larth'),)",masc prae 2nd gen,False,False,larθal,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+359,larθal,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+360,laθerna,"((True, 'latherna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+361,lapanas,"((True, 'lapanas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+362,larces,"((True, 'larce'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+363,larecesi,"((True, 'larece'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+364,larza,"((True, 'larza'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+365,larθ,"((True, 'larth'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+366,larθaia,"((True, 'larthai'),)",fem prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+367,larθal,"((True, 'larth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+368,larθalc,"((True, 'larth'),)",masc prae 2nd gen,False,False,,"(29,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+369,larθale,"((True, 'larth'),)",masc prae 2nd pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,False,False,True,NOUN
+370,[lar]θaliśa,"((True, 'larth'),)",masc prae 2nd gen,False,False,,"(11,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+371,larθaliśa,"((True, 'larth'),)",masc prae 2nd gen,False,False,,"(11,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+372,larθi,"((True, 'larthi'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+373,larθia,"((True, 'larth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+374,larθia,"((True, 'larthia'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+375,larθial,"((True, 'larth'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+376,larθial,"((True, 'larthi'),)",fem prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+377,larθialc,"((True, 'larthi'),)",fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+378,larθialiσ'la,"((True, 'larth'),)",masc prae 2nd gen,False,False,,"(3,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+379,larθialiśvle,"((True, 'larth'),)",masc prae 2nd gen,False,False,,"(46,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+380,larθiia,"((True, 'larth'),)",masc nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+381,larices,"((True, 'larice'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+382,lariza,"((True, 'lariza'),)",masc prae nom acc,False,True,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+383,larizac,"((True, 'lariza'),)",masc prae nom acc,False,False,,"(29,)",,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+384,laris,"((True, 'laris'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+385,lariś,"((True, 'larish'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+386,lariśa,"((True, 'larish'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+387,lariςa,"((True, 'laris'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+388,larisal,"((True, 'laris'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+389,lariśal,"((True, 'larish'),)",masc prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+390,lariśalc,"((True, 'laris'),)",masc prae 2nd gen,False,False,,"(29,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+391,larisale,"((True, 'laris'),)",masc prae 2nd pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,False,False,True,NOUN
+392,larisaliσ'a,"((True, 'laris'),)",masc prae 2nd gen,False,False,,"(1,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+393,larisaliσ'la,"((True, 'laris'),)",masc prae 2nd gen,False,False,,"(3,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+394,lariśaliśa,"((True, 'larish'),)",masc prae 2nd gen,False,False,,"(11,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+395,lariśaliśvla,"((True, 'larish'),)",masc prae 2nd gen,False,False,,"(32,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+396,lariśc,"((True, 'larish'),)",masc prae nom acc,False,False,,"(29,)",,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+397,lar{n}θ,"((True, 'larth'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+398,lart,"((True, 'lart'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+399,lartiu,"((True, 'lartiu'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+400,lartle,"((True, 'lartle'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+401,laru,"((True, 'laru'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+402,laruσ,"((True, 'laru'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+403,latini,"((True, 'latini'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+404,laucies,"((True, 'laucies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+405,laucies,"((True, 'laucies'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+406,lauśa,"((True, 'lausha'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+407,lauśiśa,"((True, 'laushisha'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+408,lauχmeoσ,"((True, 'laukhume'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+409,lauχumeśa,"((True, 'laukhume'),)",masc prae 1st gen,False,False,,"(48,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+410,leθaie,"((True, 'lethaie'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+411,leθes,"((True, 'lethe'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+412,leinies,"((True, 'leinies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+413,lemni,"((True, 'lemni'),)",fem nomen 1st gen (?),False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,0,0,0,0,0,0,,,,,True,False,False,NOUN
+414,lemniσ'a,"((True, 'lemni'),)",fem nomen 1st gen (?),False,False,,"(41,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,0,0,0,0,0,0,,,,,True,False,False,NOUN
+415,lθ,"((True, 'larth'),)",masc prae nom acc,False,False,larθ,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+416,lθ,"((True, 'larth'),)",masc prae 2nd gen,False,False,larθal,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+417,li,"((True, 'laris'),)",masc prae nom acc,False,False,laris,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+418,laris,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+419,liceneši,"((True, 'licene'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+420,limu.r.ce.s.,"((True, 'limurce'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+421,lr,"((True, 'laris'),)",masc prae nom acc,False,False,laris,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+422,lr,"((True, 'laris'),)",masc prae 2nd gen,False,False,larisal,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+423,larisal,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+424,lś,"((True, 'larish'),)",masc prae nom acc,False,False,lariś,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+425,lariś,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+426,lucer,"((True, 'lucer'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+427,luvχmsal,"((True, 'luvkhmes'),)",masc nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+428,luiśna,"((True, 'luishna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+429,luśce,"((True, 'lushce'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+430,luścni,"((True, 'luscni'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+431,maclae,"((True, 'maclae'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+432,mamarce,"((True, 'mamarce'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+433,mama.r.ce,"((True, 'mamarce'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+434,[ma]marces,"((True, 'mamarce'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+435,marce,"((True, 'marce'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+436,matunai,"((True, 'matunai'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+437,matunas,"((True, 'matunas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+438,mezenties,"((True, 'mezenties'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+439,meinei,"((True, 'meinei'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+440,melacinasi,"((True, 'melacinas'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+441,melutaσ,"((True, 'meluta'),)",masc nomen 1st gen,False,True,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+442,melutaśa,"((True, 'meluta'),)",masc nomen 1st gen,False,False,,"(48,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+443,meteliσ,"((True, 'meteli'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+444,metienas,"((True, 'metienas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+445,mefanateσ,"((True, 'mefanate'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+446,muθikuσ,"((True, 'muthiku'),)",masc nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+447,murila,"((True, 'murila'),)",name nom acc,False,False,,,0,0,1,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+448,<n>uzinaie,"((True, 'nuzinaie'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+449,nulaθes,"((True, 'nulathe'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+450,numnaσ,"((True, 'numna'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+451,nufreśa,"((True, 'nufresha'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+452,σ',"((True, 'shethra'),)",fem prae 1st gen,False,False,σ'eθras,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+453,σ'eθras,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+454,σ'atlnal,"((True, 'shatlnei'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+455,σ'atinalc,"((True, 'shatlnei'),)",fem nomen 2nd gen,False,True,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+456,σ'eθra,"((True, 'shethra'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+457,σ'eθre,"((True, 'shethre'),)",prae nom acc,False,False,,,,,,,,0,1,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+458,σ'eθres,"((True, 'shethre'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+459,σ'iθurnaς,"((True, 'shithurnas'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+460,σinu,"((True, 'sinu'),)",masc cogn nom acc,False,False,,"(8,)",,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+461,σ'la,"((True, 'the'),)",def art 2nd gen,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,DET
+462,σpurie,"((True, 'spurie'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+463,σuplu,"((True, 'suplo'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+464,paiθinaie[(s)],"((True, ''), (True, 'paithinaies'))",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+465,paiθinaie[(s)],"((True, ''), (True, 'paithinaies'))",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+466,paiθina[s],"((True, ''), (True, 'paithinaies'))",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+467,paiθina[s],"((True, ''), (True, 'paithinaies'))",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+468,palazui,"((True, 'palazui'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+469,palpe,"((True, 'palpe'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+470,[pa]panalaσ,"((True, 'papanai'),)",fem nomen 2nd abl,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,,,,,False,True,False,NOUN
+471,papasliśa,"((True, 'papaslisha'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+472,papr,"((True, 'paprsina'),)",masc nomen nom acc,False,False,paprσina,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+473,paprσina,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+474,parfilunia,"((True, 'parfilunia'),)",fem cogn nom acc,False,False,,,,,,,,1,0,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+475,partunus,"((True, 'partunus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+476,patrus,"((True, 'patrus'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+477,peθna,"((True, 'pethna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+478,peθunus,"((True, 'pethunus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+479,perkena,"((True, 'perkena'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+480,peśnal,"((True, 'peshnei'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+481,peśnaliśa,"((True, 'peshnei'),)",fem nomen 2nd gen,False,False,,"(11,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+482,pesn<a>,"((True, 'pesna'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+483,pétce,"((True, 'pétce'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+484,pétru,"((True, 'pétru'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+485,pétruiσ,"((True, 'pétru'),)",masc nomen 1st abl,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+486,pétruni,"((True, 'pétruni'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+487,petruσ,"((True, 'petru'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+488,pétruσ,"((True, 'pétru'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+489,pétruσc,"((True, 'pétru'),)",masc nomen 1st gen,False,False,,"(29,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+490,pétruσta,"((True, 'pétru'),)",masc nomen 1st gen,False,False,,"(14,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+491,pivi,"((True, 'pivi'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+492,pini,"((True, 'pini'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+493,pisna,"((True, 'pisna'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+494,platunalus,"((True, 'platunalu'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+495,plecus,"((True, 'plecus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+496,plunσ,"((True, 'pluns'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+497,prasanaia,"((True, 'prasanai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+498,precuθuraσi,"((True, 'the precu family'),)",anim pl 1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,1,False,False,True,NOUN
+499,precuσ,"((True, 'precu'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+500,pruciu,"((True, 'pruciu'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+501,p[ru]σ'lnas,"((True, 'prushlnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+502,puinel,"((True, 'poenel'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+503,pulenas,"((True, 'pulenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+504,pulia,"((True, 'pulia'),)",fem nomen nom acc,False,True,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+505,puliac,"((True, 'pulia'),)",fem nomen nom acc,False,False,,"(29,)",,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+506,pulias,"((True, 'pulia'),)",fem nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+507,pultuceσi,"((True, 'pultuce'),)",masc name 1st pert,False,False,,,0,0,1,,,,,,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+508,pumpu,"((True, 'pumpu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+509,pumpual,"((True, 'pumpui'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+510,pumpun,"((True, 'pumpuna'),)",masc nomen nom acc,False,False,pumpuna,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+511,pumpuna,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+512,pumpuna,"((True, 'pumpuna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+513,punpnaσ,"((True, 'punpna'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+514,qupe.s.,"((True, 'qupe'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+515,qutus,"((True, 'qutus'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+516,r,"((True, 'ramtha'),)",fem prae nom acc,False,False,ramθa,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+517,ramθa,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+518,ravnθu,"((True, 'ravnthu'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+519,raθumnaσ,"((True, 'rathumna'),)",masc nomen 1st gen,False,True,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+520,raθumnaśa,"((True, 'rathumna'),)",masc nomen 1st gen,False,False,,"(48,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+521,rakaluσ,"((True, 'rakalu'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+522,ra[m],"((True, 'ramtha'),)",fem prae nom acc,False,False,ramθa,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+523,ramaθas,"((True, 'ramtha'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+524,ramθa,"((True, 'ramtha'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+525,ramθas,"((True, 'ramtha'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+526,ramθasc,"((True, 'ramtha'),)",fem prae 1st gen,False,False,,"(29,)",,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+527,ramuθaςi,"((True, 'ramutha'),)",fem prae 1st pert,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+528,raq[u]nθia,"((True, 'raqunthi'),)",fem prae 2nd gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+529,rasuniesi,"((True, 'rasunies'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+530,raufe,"((True, 'raufe'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+531,ruvfi,"((True, 'ruvfi'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+532,ruvfies,"((True, 'ruvfie'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+533,rutelna,"((True, 'rutelnai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+534,savpunias,"((True, 'saupunias'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+535,śalina[l],"((True, 'shalinei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+536,śalini,"((True, 'shalini'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+537,śaliniσ,"((True, 'shalini'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+538,satnal,"((True, 'satnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+539,saturnies,"((True, 'saturnies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+540,ścarpe,"((True, 'shcarpe'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+541,śceva[σ],"((True, 'shcêvas'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+542,ścêvaσ,"((True, 'shcêvas'),)",masc cogn 1st gen,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+543,ścêvêσ,"((True, 'shcevas'),)",masc cogn 1st abl,False,False,,,,,,,,1,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+544,ścire,"((True, 'shcire'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+545,śeθrnal,"((True, 'shetrnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+546,śeianti,"((True, 'sheianti'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+547,śeiante,"((True, 'sheiante'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+548,seitiθial,"((True, 'seitithi'),)",fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+549,seitiθialiσ'a,"((True, 'seitithi'),)",fem nomen 2nd gen,False,False,,"(1,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+550,semni,"((True, 'semni'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+551,.s.etiu,"((True, 'setiu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+552,śêtmnal,"((True, 'shetmnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+553,śetria,"((True, 'shetria'),)",fem prae nom acc,False,False,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+554,śθ,(),masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+555,abrrev.,"((True, 'of śeθre'),)",,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+556,silqetenas,"((True, 'silqetenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+557,siprisnies,"((True, 'siprisnies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+558,ślanzu,"((True, 'shlanzu'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+559,.š.lapina.š.,"((True, 'slapinas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+560,spantui,"((True, 'spantui'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+561,spantus,"((True, 'spantus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+562,spitus,"((True, 'spitus'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+563,spurianas,"((True, 'spurianas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+564,ςpuriaς,"((True, 'spuria'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+565,spurieisi,"((True, 'spurie'),)",masc prae 1st pert,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+566,spuriies,"((True, 'spuries'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+567,squlias,"((True, 'squlia'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+568,sta<t>lanes,"((True, 'statlane'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+569,sucisnaia,"((True, 'sucisnai'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+570,śupri,"((True, 'shupri'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+571,tarχnas,"((True, 'tarkhnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+572,tataσ,"((True, 'tata'),)",masc prae 1st gen,False,False,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+573,tati,"((True, 'tati'),)",nomen nom acc,False,False,,,,,,,,0,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+574,têcśinal,"((True, 'têcshinei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+575,teiθurnasi,"((True, 'teithurnas'),)",masc nomen 1st pert,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+576,telaθuras,"((True, 'telathuras'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+577,telicles,"((True, 'telicles'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+578,tetana,"((True, 'tetana'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+579,tetnies,"((True, 'tetnies'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+580,tipeia,"((True, 'tipei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+581,tiścuśnal,"((True, 'tishcushnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+582,titasi,"((True, 'tita'),)",fem prae 1st pert,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+583,tite,"((True, 'tite'),)",masc prae nom acc,False,False,,,,,,,,0,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+584,tite,"((True, 'tite'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+585,titelaς,"((True, 'titela'),)",fem prae 1st gen,False,False,,,,,,,,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+586,titenas,"((True, 'titenas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+587,titi,"((True, 'titi'),)",fem nomen nom acc,False,False,,,,,,,,0,0,1,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+588,titial,"((True, 'titi'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+589,titialc,"((True, 'titi'),)",fem nomen 2nd gen,False,False,,"(55,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+590,titlnal,"((True, 'titlnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+591,titlniσ,"((True, 'titlni'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+592,tiφile,"((True, 'tiphile'),)",masc name nom acc,False,False,,,0,0,1,,,,,,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+593,tiφile,"((True, 'tiphile'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+594,tleσnaσ,"((True, 'tlesna'),)",masc nomen 1st gen,False,True,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+595,tleσnaśa,"((True, 'tlesna'),)",masc nomen 1st gen,False,False,,"(48,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+596,treseles,"((True, 'treseles'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+597,truφun,"((True, 'truphun'),)",masc name nom acc,False,False,,,0,0,1,,,,,,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+598,tulaluσ,"((True, 'tulalu'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+599,tulumneš,"((True, 'tulumnes'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+600,turials{c},"((True, 'turi'),)",fem nomen 1st abl,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+601,turis,"((True, 'turis'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+602,turmna,"((True, 'turmna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+603,tutes,"((True, 'tutes'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+604,tuteis,"((True, 'tutes'),)",masc nomen 1st abl,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+605,tutnaσ,"((True, 'tutna'),)",masc nomen 1st gen,False,True,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+606,tutnaśa,"((True, 'tutna'),)",masc nomen 1st gen,False,False,,"(48,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+607,uθraσ,"((True, 'uthra'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+608,uθuzteθs,"((True, 'of odysseus'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+609,ultimnial,"((True, 'ultimni'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+610,ulχniσ-,"((True, 'ulkhni'),)",masc nomen 1st gen,False,True,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+611,ulχniśla,"((True, 'ulkhni'),)",masc nomen 1st gen,False,False,,"(42,)",,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+612,unatn,"((True, 'unatnei'),)",fem nomen 2nd gen,False,False,unatnal,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+613,unatnal,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+614,uślna,"((True, 'ushlna'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+615,uślnal,"((True, 'ushlnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+616,utaves,"((True, 'utave'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+617,utaš,"((True, 'utas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+618,.s^+.lapina.s^+.,"((True, 'slapinas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+619,φisis,"((True, 'phisi'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+620,χurcles,"((True, 'khurcles'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+621,χurχles,"((True, 'khurkhles'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+622,fanacnal,"((True, 'fanacnei'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+623,fastntru,"((True, 'fastntru'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+624,feleśkenaσ,"((True, 'feleshkena'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+625,fêlσni,"((True, 'felsni'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+626,felsnas,"((True, 'felsnas'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+627,feluśkeσ,"((True, 'felushke'),)",masc nomen 1st gen,False,False,,,,,,,,0,0,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+628,fl,"((True, 'flavia'),)",fem prae nom acc,False,False,flavia,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+629,flavia,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+630,flavia,(),fem prae nom acc,False,True,,,,,,,,0,1,0,1,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+631,flavienas,"((True, 'flavienas'),)",masc nomen 1st,False,False,,,,,,,,0,0,1,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,NOUN
+632,fuln[---],"((True, 'fuln[---]'),)",masc nomen nom acc,False,False,,,,,,,,0,0,1,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+633,fulnial,"((True, 'fulni'),)",fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+634,fulus,"((True, 'fulu'),)",masc prae 1st gen,False,True,,,,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+635,fulu.σ.la,"((True, 'fulu'),)",masc prae 1st gen,False,False,,"(5,)",,,,,,0,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+636,fufle,"((True, 'fufle'),)",masc cogn nom acc,False,False,,,,,,,,1,0,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+637,[---]aninal,(),fem nomen 2nd gen,False,True,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+638,[----]aninalc,(),fem nomen 2nd gen,False,False,,"(29,)",,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+639,[---]pnal,(),fem nomen 2nd gen,False,False,,,,,,,,0,0,1,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+640,[---]uσ,(),1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,
+641,ас,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+642,acazrce,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+643,acil,"((True, ''), (True, 'is necessary'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+644,acil,"((True, 'work'), (False, 'product'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+645,acilθ,"((True, ''), (True, 'is necessary'))",nom acc,False,False,,"(25,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+646,acnaice,"((False, 'made'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+647,acnanas,"((True, 'having given birth to'),)",nas-part,False,False,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+648,acnanasa,"((True, 'having produced'),)",nasa-part,False,False,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+649,avil,"((True, 'year'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+650,avils,"((True, 'year'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+651,aisece,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+652,aiser,"((True, 'gods'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+653,ala,"((True, 'donate'),)",jussive,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+654,aliqu,"((True, 'donated'), (True, 'presented'))",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+655,alpan,"((False, 'thank offering'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+656,alpnina,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+657,amce,"((True, 'was'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+658,ame,"((True, 'is'),)",non-past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+659,an,"((True, 'who'),)",anim rel pro nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,1,1,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+660,anc,"((True, 'who'),)",rel pro nom,False,False,,"(58,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+661,apa,"((True, 'father'),)",nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+662,apac,"((True, 'father'),)",nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+663,apana,"((True, 'paternal'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+664,apasi,"((True, 'father'),)",1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+665,.a.pirase,"((True, 'april'),)",loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+666,aprenσaiσ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+667,ara,"((True, 'put'), (True, 'place'), (True, 'make'))",jussive,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+668,arce,"((True, 'constructed'), (True, 'made'))",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+669,ati,"((True, 'mother'),)",nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+670,atic,"((True, 'mother'),)",nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+671,atial,"((True, 'mother'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+672,.a.s^+u,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+673,c,"((True, 'son'),)",nom acc,False,False,clan,"(29, 40)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+674,clan,"((True, 'son'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+675,c,"((True, 'and'),)",enclitic conj,True,False,,"(40,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+676,c,(),enclitic particle,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+677,ca,"((True, 'this'),)",dem pro nom,False,False,,"(12,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+678,ca,"((True, 'this'),)",dem pro nom,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+679,camθi,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+680,canθiśal,(),2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,
+681,capi,"((True, 'take'),)",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+682,careśri,"((False, 'must be'),)",necess,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+683,cealχls,"((True, 'thirty'),)",num 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+684,cezpalχ,"((True, 'thirty'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+685,cehen,"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+686,ceizra,"((True, 'of ceisie'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+687,cela,"((True, 'chamber'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+688,celati,"((True, 'chamber'),)",loc,False,False,,"(20,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+689,celeniarasi,"((True, 'son'),)",anim pl 1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,1,False,False,True,NOUN
+690,cel,"((True, 'this'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,DET
+691,celθi,"((True, 'this'),)",loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,DET
+692,celi,"((True, 'earth'),)",loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+693,celtinêi,"((False, 'district'),)",loc (?),False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,NOUN
+694,cen,"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+695,cên,"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+696,cenu,"((True, 'sold'), (False, 'ceded'))",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+697,ceś,"((True, 'this'),)",dem pro 1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,1,0,0,0,0,,,,,False,True,False,PRON
+698,ceśu,"((True, 'resided'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+699,cepen,"((True, 'priest'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+700,cerine,"((False, 'is constructed'),)",non-past pass (?),False,False,,,,,,,,,,,,,,,,,,,,,,0,0.5,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+701,ceriχunce,"((True, 'built'), (True, 'constructed'))",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+702,cerur,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+703,cerurum,(),nom acc,False,False,,"(10,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+704,cesu,"((True, 'buried'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+705,ceuσn,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+706,ceχa,"((True, 'on behalf of'),)",post,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+707,ceχa,"((False, 'above'),)",adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+708,ceχne,(),loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+709,ceχaneri,(),loc,False,True,,"(37,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+710,cver,"((False, 'votive offering'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+711,cvera,"((False, 'votive offering'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+712,ci,"((True, 'three'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+713,ciem,(),num nom acc,False,False,,"(35,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+714,cilθl,"((False, 'citadel'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+715,cis,"((True, 'three'),)",num 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+716,cl-,"((True, 'this'),)",dem pro loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+717,clan,"((True, 'son'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+718,clanc,"((True, 'son'),)",nom acc,False,False,,"(29, 4)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+719,cle,"((True, 'the'),)",dem pro loc,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+720,clen,"((True, 'son'),)",abl,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,NOUN
+721,clenar,"((True, 'sons'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+722,clenaraσi,"((True, 'sons'),)",anim pl 1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,1,False,False,True,NOUN
+723,cleniar,"((True, 'sons'),)",anim pl nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+724,cleniarc,"((True, 'sons'),)",anim pl nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+725,clenσi,"((True, 'son'),)",1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+726,clensi,"((True, 'son'),)",1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,NOUN
+727,cles,"((True, 'son'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+728,cletram,"((True, 'litter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+729,clθi,"((True, 'this'),)",dem pro loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+730,clθi,(),2nd gen (?),False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0.5,0,0,0,0,0,,,,,True,False,False,
+731,cliniiaras,"((True, 'sons'),)",anim pl 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,1,True,False,False,NOUN
+732,clitram,"((True, 'litter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+733,cn,"((True, 'this'),)",dem pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+734,cnl,"((True, 'this'),)",dem pro acc,False,False,,"(52,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+735,cσ,"((True, 'this'),)",dem pro 1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,1,0,0,0,0,,,,,False,True,False,PRON
+736,cuie.s.χu,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+737,eca,"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+738,[ecl],"((True, 'this'),)",dem pro loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+739,[ecl]θ,"((True, 'this'),)",dem pro loc,False,False,,"(23,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+740,ecn,"((True, 'this'),)",dem pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+741,eθ,"((True, 'thus'),)",adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+742,ei,"((True, 'not'),)",neg,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,False,False,False,PRT
+743,.e.i.,"((True, 'not'),)",neg,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,False,False,False,PRT
+744,ein,"((True, 'not'),)",neg,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,False,False,False,PRT
+745,eiseraσ,"((True, 'gods'),)",anim pl 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,1,True,False,False,NOUN
+746,êliuntσ,(),1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,
+747,els,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+748,elsσ'i,"((True, 'x times'),)",num adv,False,False,,"(35,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,False,False,False,NUM
+749,em,"((True, 'from'),)",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+750,en,"((True, 'not'),)",neg,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,False,False,False,PRT
+751,.e.n.,"((True, 'not'),)",neg,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,False,False,False,PRT
+752,enan,"((True, 'anything'),)",indef pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,0,,,,,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+753,enza,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+754,epl,(),2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,
+755,êpruσ,(),1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,
+756,ersce,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+757,êśiσ,(),1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,
+758,eslz,"((True, 'twice'),)",adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+759,e{•}t,"((True, 'thus'), (True, 'so'))",adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+760,eta,"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+761,eterav,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+762,eterau,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+763,var,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+764,vêrê,(),loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+765,vina,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+766,vinac,(),nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+767,vinum,"((True, 'wine'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+768,zacinat,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+769,zaθrmisc,"((True, 'twenty'),)",num 1st gen,False,False,,"(29,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+770,zaθrms,"((True, 'twenty'),)",num 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+771,zaθrumsne,"((True, 'twentieth'),)",loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NUM
+772,zal,"((True, 'two'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+773,zatlaθ,"((True, 'guard'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+774,zeriσ,(),1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,
+775,zic,"((True, 'writing'), (True, 'document'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+776,zivaσ,"((True, 'living'),)",as-part,False,False,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+777,zivas,"((True, 'living'),)",as-part,False,False,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+778,zilaθ,"((True, 'governor'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+779,zilaχn[ce],"((True, 'served as governor'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+780,zilaχnθas,"((True, 'having held the office of governor'),)",θas-part,False,False,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+781,zilaχnu,"((True, 'having served as governor'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+782,zilc,"((True, 'governor'), (True, 'governorship'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+783,zilci,"((True, 'governorship'),)",loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+784,zilχ,"((True, 'governorship'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+785,zinace,"((True, 'made'), (True, 'fashioned'))",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+786,zinece,"((True, 'made'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+787,ziχuχe,"((True, 'was designed'), (True, 'was decorated'), (True, 'was painted'), (True, 'was written'))",past pass,False,False,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+788,hamφis,"((False, 'right'),)",1st abl,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+789,hamφisca,"((False, 'right'),)",1st abl,False,False,,"(33,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+790,heczri,"((False, 'must be'),)",necess,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+791,heχσθ,"((False, 'pour'),)",θ-part,False,False,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+792,heχσθ,"((False, 'pour'),)",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+793,hil,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+794,hu<p>ni,"((False, 'remains'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+795,hupnine,"((False, 'sarcophagus funerary niche'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+796,hupnineθi,"((True, 'sarcophagus'), (False, 'funerary niche'))",loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+797,huσ'ur,"((True, 'children'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+798,huślna,(),nom acc,False,False,,"(18, 25)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+799,θ,"((True, 'in'), (True, 'on'))",post,True,False,,"(25,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+800,θ,(),enclitic particle,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+801,θacl,(),2nd gen,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,
+802,θaclθ,(),2nd gen,False,False,,"(18,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,
+803,θahvna,"((True, 'container'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+804,θamequ,(),u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+805,θanu,(),impv (?),False,False,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+806,θapicun,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+807,θapintaiσ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+808,θapintaσ,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+809,θartei,(),loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+810,θezeri,"((True, 'must be immolated'),)",necess,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+811,θelu,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+812,θeluσ'a,(),nom acc,False,False,,"(41,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+813,θesca,(),,False,False,,"(26,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+814,θi,"((True, 'in'), (True, 'on'))",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+815,θi,"((True, 'water'),)",nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+816,θic,"((True, 'water'),)",nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+817,θina,"((True, 'water vessel'), (True, 'storage vessel'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+818,θlu,(),impv (?),False,False,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+819,θra{:}sce,"((True, 'became'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+820,θui,"((True, 'here'),)",adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+821,θun,"((True, 'one'),)",num,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,False,False,False,NUM
+822,θunem,"((True, 'one'),)",num,False,False,,"(35,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,False,False,False,NUM
+823,θupi,(),loc (?),False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,
+824,θupit,(),loc (?),False,False,,"(15,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,
+825,θusti,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+826,θuχ,"((True, 'house'), (True, 'depository'))",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+827,θuχt,"((True, 'house'), (True, 'depository'))",loc,False,False,,"(19,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+828,θuχti,"((True, 'house'), (True, 'depository'))",loc,False,False,,"(20,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+829,ica{i},"((True, 'this'),)",dem pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+830,ilu.c.ve,(),loc (?),False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,
+831,ilucu,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+832,iluu,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+833,ims,(),1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,
+834,imσ,(),1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,
+835,in,"((True, 'which'),)",inanim rel pro nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,1,1,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+836,inni,"((False, 'which'),)",inanim rel pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,1,1,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+837,inpa,(),,False,False,,"(59,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+838,iσ',"((True, 'the'),)",def art nom,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+839,iσ've,"((True, 'ides'),)",loc (?),False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,NOUN
+840,iσ've.i.tule,"((True, 'ides'),)",loc (?),False,False,,"(31, 3)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.5,0,0,,,,,False,False,False,NOUN
+841,iσ'la,"((True, 'the'),)",def art 2nd gen,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,DET
+842,ipa,"((False, 'that'),)",subord (?),False,False,,"(11, 16, 46)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,False,False,False,CONJ
+843,iśa,"((True, 'the'),)",def art nom,True,False,,"(16, 46)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+844,iśvla,"((True, 'the'),)",def art pl 2nd gen,True,False,,"(46,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,1,True,False,False,DET
+845,iśvle,"((True, 'the'),)",def art pl 2nd pert,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,1,,,,1,False,False,True,DET
+846,ita,"((True, 'the'),)",dem pro nom acc,False,False,,"(17,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+847,ita,"((True, 'the'),)",dem pro nom acc,True,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+848,itane,"((True, 'this'),)",dem pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+849,itruta,"((False, 'disturb'),)",jussive,False,False,,"(31,)",,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+850,.i.tule,"((True, 'the'),)",dem pro loc,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+851,itun,"((True, 'this'),)",dem pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+852,iχ,"((True, 'as'),)",subord,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,False,False,False,CONJ
+853,iχnac,"((True, 'how'),)",subord,False,False,,"(38,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,False,False,False,CONJ
+854,k,"((True, 'and'),)",enclitic conj,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+855,kape,"((True, 'take'),)",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+856,ki,"((True, 'three'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+857,klan,"((True, 'son'),)",nom acc,False,False,,"(54,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+858,l,(),deictic particle,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+859,l,"((True, 'freedman'),)",nom acc,False,False,lautni,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+860,lautni,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+861,lav,"((True, 'freedman'),)",nom acc,False,False,lavtni,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+862,lavtni,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+863,lavtni,"((True, 'freedman'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+864,lavtni,"((True, 'family'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+865,laiveis,"((True, ""left'""),)",1st abl,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+866,laiveism,"((True, 'left'),)",1st abl,False,False,,"(28,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+867,lau,"((True, 'freedman'),)",nom acc,False,False,lautni,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+868,lautn,"((True, 'family'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+869,lautni,"((True, 'freedman'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+870,lautniθa,"((True, 'freedwoman'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+871,lautnita,"((True, 'freedwoman'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+872,leχtumuza,"((True, 'oil-flask'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+873,luθ,"((False, 'sacred area'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+874,luθti,"((False, 'sacred area'),)",loc,False,False,,"(20,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+875,luθcval,"((False, 'sacred areas'),)",inanim pl 2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,1,True,False,False,NOUN
+876,luθs,"((False, 'sacred area'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+877,lupu,"((True, 'dead'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+878,lupuce,"((True, 'died'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+879,lurχve,(),inanim pl loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,1,False,False,False,NOUN
+880,lut,"((False, 'sacred area'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+881,lxχn/a,(),nom (?) acc (?),False,False,,"(30,)",,,,,,,,,0.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+882,m,"((True, 'and'), (True, 'but'))",enclitic conj,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+883,macuni,(),loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+884,malana,"((True, 'mirror'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+885,[malaka]si,"((True, 'beautiful'),)",1st pert,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,False,False,True,ADJ
+886,malax,"((True, 'beautiful'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+887,male,"((True, ""watch over'""),)",non-past act,False,True,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+888,malec,"((True, 'watch over'),)",non-past act,False,False,,"(29,)",,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+889,man,"((False, 'monument'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+890,manim,"((False, 'funerary monument'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+891,manince,"((False, 'offered'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+892,marunuc,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+893,max,"((True, 'five'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+894,maxs,"((True, 'five'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+895,melume,"((True, 'city'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+896,meθlumeric,"((True, 'city'),)",loc,False,False,,"(37, 29)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+897,melθm,"((True, 'city'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+898,meθlmθ,"((True, 'city'),)",loc,False,False,,"(23,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+899,meχl,"((False, 'territory'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+900,menece,"((True, 'made'),)",past act,False,True,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+901,men,"((True, 'made'),)",past act,False,False,menece,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+902,menece,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+903,mena[q]u,"((True, 'made'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+904,menaχe,"((True, 'was made'),)",past pass,False,False,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+905,mene,"((True, 'me'),)",1st pers pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+906,menepi,"((True, 'me'),)",1st pers pro acc,False,False,,"(57,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+907,men,"((True, 'me'),)",1st pers pro acc,False,True,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+908,men[p]e,"((True, 'me'),)",1st pers pro acc,False,False,,"(45,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+909,mi,"((True, 'i'),)",1st pers pro nom,False,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+910,mi.n,"((True, 'me'),)",1st pers pro acc,False,True,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+911,mi.n.pi,"((True, 'me'),)",1st pers pro acc,False,False,,"(9,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+912,mi.ne,"((True, 'me'),)",1st pers pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+913,mini,"((True, 'me'),)",1st pers pro acc,False,False,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+914,minipi,"((True, 'me'),)",1st pers pro acc,False,False,,"(57,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+915,mi<ni>pi,(),1st pers pro acc,False,False,,"(57,)",,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,1,,,,False,False,False,PRON
+916,mlax,"((True, 'beautiful'), (True, 'good'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+917,mlakas,"((True, 'beautiful'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,ADJ
+918,mlakaς,"((True, 'beautiful'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,ADJ
+919,mlakaš,"((True, 'beautiful'), (True, 'good'))",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,ADJ
+920,mlesiê,(),loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+921,mlesiêθic,(),loc,False,False,,"(47, 29)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+922,muvalχls,"((True, 'fifty'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+923,mula,"((True, 'give'),)",jussive,False,True,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+924,mulax,"((True, 'give'),)",jussive,False,False,,"(2,)",,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+925,mulvaneke,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+926,mulvanice,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+927,mu.l.vanice,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+928,mulvannice,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+929,mulu,"((True, 'given'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+930,muluvanice,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+931,muluvunike,"((True, 'gave'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+932,munis,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+933,mu[n]sl[e]c,(),loc,False,False,,"(29,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+934,murce,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+935,murzua,"((True, 'ossuary'),)",inanim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+936,mutna,"((True, 'sarcophagus'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+937,mutn{ai},"((True, 'sarcophagus'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+938,mutn{ai}θi,"((True, 'sarcophagus'),)",loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+939,nac,"((True, 'when'), (False, 'because'))",subord,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,False,False,False,CONJ
+940,netσ'vis,"((True, 'haruspex'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+941,nuθanatur,"((True, 'auditors'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+942,nuθe,"((False, 'listen to'),)",non-past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+943,n[u]na.i.,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+944,nunar,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+945,nunax,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+946,nunθenθ,"((False, 'by anointing'),)",θ-part,False,False,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+947,nunθenθ,"((False, 'by anointing'),)",θ-impv,False,False,,,,,,,,,,,,,,,0,0,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+948,nunθenθ,"((False, ''), (False, 'after anointing'))",θ-part,False,False,,"(41,)",,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+949,σ'a,"((True, 'the'),)",def art nom,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+950,σacnicle,"((False, 'sanctuary'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+951,σacnideri,"((False, 'sanctuary'),)",loc,False,False,,"(37,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+952,σazleiσ,"((False, 'bronze'), (False, 'wood'))",1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+953,σar,"((True, 'ten'),)",num nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+954,σarcten,(),num nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+955,σec,"((True, 'daughter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+956,σeχ,"((True, 'daughter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+957,σela-,(),nom (?) acc (?),False,True,,,,,,,,,,,0.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+958,σelaśva,(),nom (?) acc (?),False,False,,"(6, 5)",,,,,,,,,0.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+959,.σ'.la,"((True, 'the'),)",def art 2nd gen,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,DET
+960,σpural,"((True, 'community'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+961,σpure,"((True, 'community'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+962,σpureri,"((True, 'community'),)",loc,False,False,,"(37,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+963,σran,"((True, '? (unit of measurement)'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+964,σrenχve,(),inanim pl loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,1,False,False,False,NOUN
+965,σ'uθi,"((True, 'tomb'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+966,σ'uθiθ,"((True, 'tomb'),)",loc,False,False,,"(23,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+967,σ'uθiθi,"((True, 'tomb'),)",loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+968,σ'uθic,"((True, 'funerary'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+969,σ'uθic,"((True, 'tomb'),)",nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+970,pava,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+971,pavac,(),nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+972,papalser,"((True, 'grandchildren'),)",anim pl nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+973,[palpa]σer,"((True, 'children'),)",anim pl nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+974,[palpa]σerc,"((True, 'children'),)",anim pl nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,NOUN
+975,parχis,(),1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,
+976,patara,"((True, 'shallow bowl'),)",nom acc,False,False,,"(44,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+977,[p]e,(),enclitic particle,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+978,penθa,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+979,penθuna,"((True, 'cippus'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+980,pe.r.pri,"((False, 'must be celebrated'),)",necess,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+981,peś,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+982,peśc,(),nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+983,peśσ,(),1st abl,False,False,,"(9,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,
+984,pi,(),enclitic particle,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,False,False,False,PRT
+985,priniśerac,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+986,prumaθσ,"((False, 'great grandson'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+987,pruχum,"((True, 'jug'), (True, 'vase'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+988,pruχu.m.,"((True, 'jug'), (True, 'vase'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+989,puθs,"((False, 'is placed'),)",non-past pass,False,False,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+990,puia,"((True, 'wife'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+991,puil,"((True, 'wife'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+992,purapum,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+993,putina,"((True, 'flask'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+994,qutum,"((True, 'wine pitcher'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+995,raσna,"((True, 'public'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+996,raσnal,"((True, 'public'),)",2nd gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,NOUN
+997,rapi,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+998,ratm,(),adv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,False,False,False,ADV
+999,raχ,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1000,raχθ,(),loc,False,False,,"(18,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+1001,restm,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1002,restmc,(),nom acc,False,False,,"(29, 49)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1003,ri,"((True, 'on behalf of'), (True, 'for'))",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+1004,ril,"((True, 'age'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1005,ruva,"((True, 'brother'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1006,śa,"((True, 'four'),)",num nom acc,False,False,,"(48, 39)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,,,,,False,False,False,NUM
+1007,śa,"((True, 'the'),)",def art nom,True,False,,"(39,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+1008,sa,"((True, 'the'),)",def art nom,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,DET
+1009,sacni-,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1010,sacniσ'a,(),nom acc,False,False,,"(41,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1011,śalt,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1012,sa,"((True, 'he'), (True, 'the same'))",3rd pers pro nom,False,True,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,,,1,,False,False,False,PRON
+1013,sam,"((True, 'he'), (True, 'the same'))",3rd pers pro nom,False,False,,"(43,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,0,0,0,0,0,0,0,,,1,,False,False,False,PRON
+1014,sani-,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1015,saniς'va,(),nom acc,False,False,,"(36,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1016,sec,"((True, 'daughter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1017,śemutin,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1018,semφalχls,"((True, 'seventy-five'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+1019,semφσ,"((True, 'seven'),)",num 1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,,,,,True,False,False,NUM
+1020,seχ,"((True, 'daughter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1021,seχis,"((True, 'daughter'),)",1st gen,False,False,,"(6,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+1022,śva,"((True, 'the'),)",def art nom pl,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,0,0,0,,,,1,False,False,False,DET
+1023,sval,"((True, 'alive'), (True, 'living'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+1024,svalas,"((True, 'living'),)",as-part,False,False,,,,,,,,,,,,,,,0,0,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1025,svalce,"((True, 'lived'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1026,svalθas,"((True, 'having lived'),)",θas-part,False,False,,"(21,)",,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1027,śvê,"((True, 'the'),)",def art pl loc,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,0,0,0,1,0,0,,,,1,False,False,False,DET
+1028,śianσ,(),nom acc,False,False,,"(42,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1029,śla,"((True, 'the'),)",def art 2nd gen,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,1,,,,,,1,,,,,,,,0,1,0,0,0,0,0,,,,,True,False,False,DET
+1030,śpan,"((True, 'plain'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1031,śpanθi,"((True, 'plain'),)",loc,False,False,,"(27,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1032,śpante,"((True, 'plain'),)",loc,False,False,,"(22,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1033,spanti,"((True, 'plate'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1034,śparza,"((True, 'tablet'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1035,śparzê,"((True, 'tablet'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1036,śparzête,"((True, 'tablet'),)",loc,False,False,,"(22,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1037,śparzêσ,"((True, 'tablet'),)",1st abl,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+1038,śparzêσtiσ,"((True, 'tablet'),)",1st abl,False,False,,"(34,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+1039,ςpati,"((True, 'plate'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1040,spurana,"((True, 'of the community'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+1041,spure,"((True, 'community'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1042,spureθi,"((True, 'community'),)",loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1043,śpure,"((True, 'community'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1044,śpureri,"((True, 'community'),)",loc,False,False,,"(37,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1045,sren,"((False, 'scene'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1046,śuθ,"((True, 'put'), (True, 'place'))",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1047,śuθi,"((True, 'tomb'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1048,ς'uθi,"((True, 'tomb'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1049,śuθivenaσ,(),nas-part,False,False,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1050,śuθiσ,"((True, 'tomb'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+1051,śuθiu,"((True, 'placed'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1052,śuθiu,"((True, 'storehouse'),)",loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1053,śuθiuśvê,"((True, 'storehouse'),)",loc,False,False,,"(21,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1054,ςunθeruza,"((True, 'pyxis'),)",nom acc,False,False,,"(19,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1055,t,"((True, 'in'),)",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+1056,ta,"((True, 'the'),)",dem pro nom,False,False,,"(13,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+1057,ta,"((True, 'this'),)",dem pro nom,True,False,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+1058,tal,"((True, 'this'),)",dem pro nom,False,False,,"(52,)",,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,0,0,0,,,,,False,False,False,PRON
+1059,tamera,"((True, 'tomb chamber'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1060,tarχianeσ,(),1st abl,False,False,,"(22,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,
+1061,te,"((True, 'on'),)",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+1062,tece,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1063,tei,"((True, 'this'),)",dem pro loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,0,0,1,0,0,,,,,False,False,False,PRON
+1064,têi,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1065,tênθa,"((False, 'measures'),)",jussive,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1066,tenθas,"((True, 'having held'),)",θas-part,False,False,,,,,,,,,,,,,,,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1067,tênθur,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1068,tênθurc,(),nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1069,tenine,"((False, 'is offered'),)",non-past pass (?),False,False,,,,,,,,,,,,,,,,,,,,,,0,0.5,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1070,tenu,"((True, 'having held'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1071,têrśna,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1072,te[---],(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1073,tva,"((False, 'shows'),)",non-past act,False,False,,"(24, 34)",,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1074,ti,"((True, 'in'), (True, 'on'))",post,True,False,,"(34,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+1075,tiσ,"((True, 'this'),)",dem pro 1st abl,True,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,0,0,1,0,0,0,0,,,,,False,True,False,PRON
+1076,tiśσ,"((False, 'lake'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+1077,tiur,(),nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1078,tleχe,(),past pass,False,False,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1079,tltel,(),,False,False,,"(56,)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1080,tra,"((True, 'in honor of'),)",post,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,False,False,False,ADP
+1081,traula,(),nom acc,False,True,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1082,traulac,(),nom acc,False,False,,"(29,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1083,trin,"((True, 'say'), (True, 'invoke'))",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1084,truta,"((False, 'disturb'),)",jussive,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1085,trutnvt,"((True, 'interpreter'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1086,tuθina,"((True, 'community'), (False, 'city district'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1087,tuθineσ,"((True, 'community'), (False, 'city district'))",1st abl,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,False,True,False,NOUN
+1088,tular,"((False, 'boundary stone'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1089,tularias,"((True, 'of the boundary'),)",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,ADJ
+1090,tuσ,(),loc,False,True,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+1091,tuσθi,(),loc,False,False,,"(53,)",,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,
+1092,tuσnutai[-],(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1093,tur,"((True, 'put'),)",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1094,tura,"((True, 'put'),)",jussive,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1095,turace,"((True, 'dedicated'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1096,turce,"((True, 'dedicated'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1097,ture,"((True, 'put'),)",non-past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1098,turice,"((True, 'dedicated'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1099,turke,"((True, 'dedicated'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1100,turuce,"((True, 'dedicated'),)",past act,False,False,,"(10,)",,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1101,um,"((True, 'and'),)",enclitic conj,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+1102,une,"((False, 'for you'),)",2nd pers pro pert,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,,False,False,False,PRON
+1103,une,"((False, 'for him'),)",3rd pers pro pert,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,False,False,False,PRON
+1104,utta,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1105,φerśnaχś,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
+1106,φurθce,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1107,φ[---]na,(),nom acc,False,False,,"(50,)",,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,
+1108,χ,"((True, 'and'),)",enclitic conj,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,False,False,False,CONJ
+1109,χape,"((True, 'take'),)",impv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1110,χuliχna,"((True, 'vessel'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1111,fanu,"((False, 'determined'),)",u-part,False,False,,,,,,,,,,,,,,,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1112,faσei,"((True, 'libation'),)",loc,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,,,,,False,False,False,NOUN
+1113,faσena,"((True, 'libation vessel'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1114,farθnaχe,"((True, 'was born'),)",past pass,False,False,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1115,fler,"((True, 'victim'), (True, 'sacrificial victim'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1116,flere,"((True, 'divine spirit'), (True, 'divinity'))",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,NOUN
+1117,flereσ,"((True, 'divine spirit'), (True, 'divinity'))",1st gen,False,False,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,,,,,True,False,False,NOUN
+1118,flerθrce,(),past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1119,fratuce,"((False, 'incised'),)",past act,False,False,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,VERB
+1120,frontac,"((True, 'of lightning'),)",nom acc,False,False,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,,,,,False,False,False,ADJ
+1121,[---]e,(),,False,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,False,
