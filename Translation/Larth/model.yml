@@ -1,0 +1,23 @@
+# Input embeddings
+word_char_emb_size: 256
+
+# Decoder embeddings
+emb_size: 256
+
+# Dropout
+dropout: 0.1
+attention_dropout: 0.1
+
+# Attention blocks
+layers: 1
+qkv_dim: 256 
+mlp_dim: 512
+num_heads: 8
+activation_fn: gelu
+block_size: 8
+
+# Others
+max_len: 256    
+dtype: float32
+
+encoder_type: char_word
