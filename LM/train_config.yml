@@ -1,0 +1,38 @@
+batch_size: 32
+lr: 0.0005
+warmup_steps: 250
+weight_decay: 0.0001
+workdir: Etruscan
+label_smoothing: 0.1
+restore_checkpoints: True
+beam_size: 1
+length_penalty: 0.6
+epochs: 1000
+eval_every_epochs: 100
+checkpoint_every_epochs: 100
+
+dataset_type: csv
+subset: "both"
+data_path: ../Data/Etruscan.csv
+etruscan_vocab: ../Data/EPT_POS.csv
+min_len: 1
+prompt_len: 4
+
+tokenizer: ../Data/all_small
+alignment: same
+cached: True
+seed: 0
+debug: False
+
+lang: etruscan
+
+train: True
+eval: True
+use_topk: True
+temperature: 0
+topk: 10
+
+name_augmentation_max_replacements: 0
+unk_augmentation_prob: 0
+unk_augmentation_len: 1
+unk_augmentation_iterations: 0

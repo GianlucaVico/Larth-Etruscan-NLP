@@ -1,0 +1,12 @@
+
+emb_size: 256
+max_len: 256
+dropout: 0.1
+dtype: float32
+
+layers: 6
+qkv_dim: 256
+mlp_dim: 512
+num_heads: 8
+attention_dropout: 0.1
+activation_fn: gelu

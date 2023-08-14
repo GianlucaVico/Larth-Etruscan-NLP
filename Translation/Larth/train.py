@@ -207,7 +207,6 @@ def predict_step(
         ),
         beam_size,
     )
-    # TODO check if it is the right tensor
     raw_inputs = decode.flat_batch_beam_expand(source_words, beam_size)
 
     def tokens_ids_to_logits(flat_ids, flat_cache):
@@ -253,7 +252,7 @@ def evaluate(
     eval_ds: DataLoader,
 ) -> Dict[str, float]:
     """
-    Evaluate the params an return a dictionary with the metrics.
+    Evaluate the model an return a dictionary with the metrics.
 
     Args:
         p_eval_step: p-mapped evaluation function (one step)
@@ -419,9 +418,8 @@ def train_and_evaluate(
     Runs a training and evaluation loop.
 
     Args:
-        config: Configuration to use.
-        workdir: Working directory for checkpoints and TF summaries. If this
-        contains checkpoint training will be resumed from the latest checkpoint.
+        model_config: model configuration to use.
+        run_config: training configuration
     """
     try:
         os.makedirs(run_config.workdir)
